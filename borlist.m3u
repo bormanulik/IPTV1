@@ -1,60 +1,10 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-name="Хостинг PlayListBox заявил о прекращении своей работы." tvg-logo="https://disk.yandex.ru/i/zVWuDgFcwEtMbA" group-title="Внимание!!!", Хостинг PlayListBox заявил о прекращении своей работы.
-#EXTGRP:Внимание!!!
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="В ближайшие дни попробуем переехать на другой сервис, следите за новостями здесь." tvg-logo="https://disk.yandex.ru/i/zVWuDgFcwEtMbA" group-title="Внимание!!!", В ближайшие дни попробуем переехать на другой сервис, следите за новостями здесь.
-#EXTGRP:Внимание!!!
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://app.playlistbox.com/icon/yWKm9lLEGakqPMQNpzZBOnNdRr06XV32.png" group-title="Эфирные HD", Звезда HD
-#EXTGRP:Эфирные HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-name="Мир HD" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovVkoy1vm7j4wQWYnR.png" group-title="Эфирные HD", Мир HD
-#EXTGRP:Эфирные HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeq7pZVW8J7GyvOXld6.png" group-title="Эфирные HD", Первый канал HD
-#EXTGRP:Эфирные HD
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-name="МИР 24 HD" group-title="Эфирные HD", МИР 24 HD
-#EXTGRP:Эфирные HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="rbk" tvg-name="РБК HD" tvg-logo="https://app.playlistbox.com/icon/bPpzO3N2aBrqlov2V6oy1vm7j4wQWYnR.png" group-title="Эфирные HD", РБК HD
-#EXTGRP:Эфирные HD
 http://online.video.rbc.ru/online/rbctv_720p/index.m3u8
-#EXTINF:-1 tvg-name="Известия HD" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGGOZV6AOrqyjw9z1W.png" group-title="Эфирные HD", Известия HD
-#EXTGRP:Эфирные HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="zvezda-plus" tvg-name="Звезда Плюс HD" tvg-logo="https://app.playlistbox.com/icon/WnrJEQpk2Dbj6xj1BOo0eNRPLK49Odlv.png" group-title="Эфирные HD", Звезда Плюс HD
-#EXTGRP:Эфирные HD
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
-#EXTINF:-1 tvg-name="Мир Premium HD" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg" group-title="Эфирные HD", Мир Premium HD
-#EXTGRP:Эфирные HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-name="ТНТ4 HD" group-title="Эфирные HD", ТНТ4 HD
-#EXTGRP:Эфирные HD
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 tvg-name="ТВ3 HD" group-title="Эфирные HD", ТВ3 HD
-#EXTGRP:Эфирные HD
-https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
-#EXTINF:-1 tvg-name="Домашний HD" group-title="Эфирные HD", Домашний HD
-#EXTGRP:Эфирные HD
-https://livetv.mylifeisgood.net.ru/channels/domashnii
-#EXTINF:-1 tvg-name="Пятница HD" group-title="Эфирные HD", Пятница HD
-#EXTGRP:Эфирные HD
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Россия HD" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxne8oJ9XldROAzkg75.png" group-title="Эфирные HD", Россия HD
-#EXTGRP:Эфирные HD
-http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzAyMzQ0NzMsImlhdCI6MTczMDE0ODA3MywiY2lkIjo2LCJ1aWQiOjg0ODg5MjcwOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oflm7hE4wwBVKdwLKT5T-PG4Silk26edkML8jAOjm0o&offset=10
-#EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://app.playlistbox.com/icon/vQ97O6Vp54NE2yxmJqMLKe3Pjln8qJAm.png" group-title="Эфирные HD", НТВ HD
-#EXTGRP:Эфирные HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 tvg-name="ТНТ HD" group-title="Эфирные HD", ТНТ HD
-#EXTGRP:Эфирные HD
-http://91.205.199.3/tnthd/index.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-name="Рен ТВ HD" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDW6ZAXpwKq5mPJvV9.png" group-title="Эфирные HD", Рен ТВ HD
-#EXTGRP:Эфирные HD
-http://live-stream-09.ott.tricolor.tv/live/live/REN-TV_0_hd/hls_enc/REN-TV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMDUzOTU5MiwiaHdpZCI6IjVkNzc1ZmU4MjUwNmQyNTRkYjgyOTJlMTM1NTFhMjYwZDcxMjI0ZTQ2MmFmNjgzZTEwYzRjOTdiZjU4OGZlYWEiLCJsYXN0X3JlcV9kYXRlIjoxNzI5OTM0NzkyLCJzZXNzaW9uX2lkIjoiY2NjYTdhODNmM2I5YTgwYzg2ZDg0MTA4NWY1OTZlOTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Qy4-_QGjujjEwlSdupPydtnUpVWtk1geCEw66luYaCQ
-#EXTINF:-1 tvg-name="СТС HD" group-title="Эфирные HD", СТС HD
-#EXTGRP:Эфирные HD
+
 http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="super" tvg-name="СУББОТА! HD" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRLwGZn5k71JNgAKrml.png" group-title="Эфирные HD", СУББОТА! HD
 #EXTGRP:Эфирные HD
