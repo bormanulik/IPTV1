@@ -1,4 +1,67 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Домашний_" group-title="Эфирные", Домашний
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&.mp4
+#EXTINF:-1 tvg-name="Пятница_" group-title="Эфирные", Пятница
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.mp4
+#EXTINF:-1 tvg-name="СТС_Love_" group-title="Эфирные", СТС Love
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
+#EXTINF:-1 tvg-name="СТС_" group-title="Эфирные", СТС
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
+#EXTINF:-1 tvg-name="Суббота!_" group-title="Эфирные", Суббота!
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
+#EXTINF:-1 tvg-name="ТВ_3_" group-title="Эфирные", ТВ 3
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
+#EXTINF:-1 tvg-name="ТНТ_HD_" group-title="Эфирные", ТНТ HD
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
+#EXTINF:-1 tvg-name="ТНТ4_" group-title="Эфирные", ТНТ4
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
+#EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeq7pZVW8J7GyvOXld6.png" group-title="Эфирные", Первый канал
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
+#EXTINF:-1 tvg-name="Россия РТР" group-title="Эфирные", Россия РТР
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?id=8410d13737ac090732898be21e6dd55dabb031fe&.mp4
+#EXTINF:-1 tvg-name="EuroNews [RU]" group-title="Эфирные", EuroNews [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=f8757bfa9b59fb272c9fd40bdc0fcb4e296d69bf
+#EXTINF:-1 tvg-name="Пятница [RU]" group-title="Эфирные", Пятница [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=a95ec5a3780c3a3c76da5707b12561daee4f2305
+#EXTINF:-1 tvg-name="СТС [RU]" group-title="Эфирные", СТС [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
+#EXTINF:-1 tvg-name="СТС Love [RU]" group-title="Эфирные", СТС Love [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=c8664d53f5553fbbc565e5c2e99f6cc31f1e78db
+#EXTINF:-1 tvg-name="Суббота! [RU]" group-title="Эфирные", Суббота! [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=ebeec408c96acce8cfea1dcb0a53397fbee77acf
+#EXTINF:-1 tvg-name="ТВ 3 [RU]" group-title="Эфирные", ТВ 3 [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=3403267623697a7092a10478aad7f234f2ce4a64
+#EXTINF:-1 tvg-name="ТНТ (+7) [RU]" group-title="Эфирные", ТНТ (+7) [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=fab9f7a13476148dc75d77ba29bf38ccf966ac81
+#EXTINF:-1 tvg-name="ТНТ HD [RU]" group-title="Эфирные", ТНТ HD [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=a6169d01fb2b8a62b45857666946732773c651d1
+#EXTINF:-1 tvg-name="ТНТ4 [RU]" group-title="Эфирные", ТНТ4 [RU]
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=6f169084c32e98f87f49d9880406873c3453b49d
+#EXTINF:-1 tvg-name="IZ.RU" group-title="Эфирные", IZ.RU
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=2d82e6aabb98c72c8bef0669255e2ac5dd0898f0
+#EXTINF:-1 tvg-name="Russia Today Doc (RU)" group-title="Эфирные", Russia Today Doc (RU)
+#EXTGRP:Эфирные
+http://127.0.0.1:6878/ace/getstream?infohash=954d98581570737613481bb2715f8b02a5ac7c22
 #EXTINF:-1 tvg-name="Animal_Planet_HD_" group-title="Познавательные", Animal Planet HD
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?id=4326cb056ec172c0d9958cd44535045723b66068&.mp4
@@ -128,9 +191,6 @@ http://127.0.0.1:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&
 #EXTINF:-1 tvg-name="Дождь_" group-title="Познавательные", Дождь
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
-#EXTINF:-1 tvg-name="Домашний_" group-title="Познавательные", Домашний
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&.mp4
 #EXTINF:-1 tvg-name="Кто_есть_кто_" group-title="Познавательные", Кто есть кто
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0&.mp4
@@ -140,39 +200,9 @@ http://127.0.0.1:6878/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&
 #EXTINF:-1 tvg-name="Наша_сибирь_4K_" group-title="Познавательные", Наша сибирь 4K
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
-#EXTINF:-1 tvg-name="Пятница_" group-title="Познавательные", Пятница
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.mp4
-#EXTINF:-1 tvg-name="СТС_Love_" group-title="Познавательные", СТС Love
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
-#EXTINF:-1 tvg-name="СТС_" group-title="Познавательные", СТС
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
-#EXTINF:-1 tvg-name="Суббота!_" group-title="Познавательные", Суббота!
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
-#EXTINF:-1 tvg-name="ТВ_3_" group-title="Познавательные", ТВ 3
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
-#EXTINF:-1 tvg-name="ТНТ_HD_" group-title="Познавательные", ТНТ HD
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
-#EXTINF:-1 tvg-name="ТНТ4_" group-title="Познавательные", ТНТ4
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 tvg-name="CGTN Русский" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1EyZ68y35DwQnGrjA.png" group-title="Познавательные", CGTN Русский
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?id=9f7dd05a3f443890373824ee399423c747214568&.mp4
-#EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeq7pZVW8J7GyvOXld6.png" group-title="Познавательные", Первый канал
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
-#EXTINF:-1 tvg-name="Россия РТР" group-title="Познавательные", Россия РТР
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?id=8410d13737ac090732898be21e6dd55dabb031fe&.mp4
-#EXTINF:-1 tvg-name="EuroNews [RU]" group-title="Познавательные", EuroNews [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=f8757bfa9b59fb272c9fd40bdc0fcb4e296d69bf
 #EXTINF:-1 tvg-name="History HD [RU]" group-title="Познавательные", History HD [RU]
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?infohash=4f7be698925e8df0bc338170a81c390d3cb391ae
@@ -317,42 +347,12 @@ http://127.0.0.1:6878/ace/getstream?infohash=fa7779232bdf287ba44134ab1cc02a592ff
 #EXTINF:-1 tvg-name="Дождь [RU]" group-title="Познавательные", Дождь [RU]
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?infohash=ed6452bdf0452841bbfa3a060ee00e73b5968262
-#EXTINF:-1 tvg-name="Пятница [RU]" group-title="Познавательные", Пятница [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=a95ec5a3780c3a3c76da5707b12561daee4f2305
 #EXTINF:-1 tvg-name="Русский Экстрим [RU]" group-title="Познавательные", Русский Экстрим [RU]
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?infohash=570d51491a1e50989346ecd9d0c5cf8f3aecd78b
-#EXTINF:-1 tvg-name="СТС [RU]" group-title="Познавательные", СТС [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
-#EXTINF:-1 tvg-name="СТС Love [RU]" group-title="Познавательные", СТС Love [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=c8664d53f5553fbbc565e5c2e99f6cc31f1e78db
-#EXTINF:-1 tvg-name="Суббота! [RU]" group-title="Познавательные", Суббота! [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=ebeec408c96acce8cfea1dcb0a53397fbee77acf
-#EXTINF:-1 tvg-name="ТВ 3 [RU]" group-title="Познавательные", ТВ 3 [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=3403267623697a7092a10478aad7f234f2ce4a64
-#EXTINF:-1 tvg-name="ТНТ (+7) [RU]" group-title="Познавательные", ТНТ (+7) [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=fab9f7a13476148dc75d77ba29bf38ccf966ac81
-#EXTINF:-1 tvg-name="ТНТ HD [RU]" group-title="Познавательные", ТНТ HD [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=a6169d01fb2b8a62b45857666946732773c651d1
-#EXTINF:-1 tvg-name="ТНТ4 [RU]" group-title="Познавательные", ТНТ4 [RU]
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=6f169084c32e98f87f49d9880406873c3453b49d
-#EXTINF:-1 tvg-name="IZ.RU" group-title="Познавательные", IZ.RU
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=2d82e6aabb98c72c8bef0669255e2ac5dd0898f0
 #EXTINF:-1 tvg-name="RU TV HD" group-title="Познавательные", RU TV HD
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?infohash=5898df62c5c90b498ddf73191016244a8e014c28
-#EXTINF:-1 tvg-name="Russia Today Doc (RU)" group-title="Познавательные", Russia Today Doc (RU)
-#EXTGRP:Познавательные
-http://127.0.0.1:6878/ace/getstream?infohash=954d98581570737613481bb2715f8b02a5ac7c22
 #EXTINF:-1 tvg-name="Russian JahrMarkt" group-title="Познавательные", Russian JahrMarkt
 #EXTGRP:Познавательные
 http://127.0.0.1:6878/ace/getstream?infohash=e6946c4ebc4fb58e9551f7822f281c7e79c420d6
