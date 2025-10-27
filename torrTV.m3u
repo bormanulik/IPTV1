@@ -1813,8 +1813,6 @@ http://127.0.0.1:6878/ace/getstream?infohash=e1324091544c0f61d4e11f33d6fbbf3db5c
 http://127.0.0.1:6878/ace/getstream?infohash=713ac380cf0dc0a2fdd4022fa8a711c71319bfde
 #EXTINF:-1  group-title="Взрослые"   tvg-name="Visit-X TV (18+)", Visit-X TV (18+)
 http://127.0.0.1:6878/ace/getstream?infohash=11781466f94690de2067caadf4c51f1243197858
-#EXTINF:-1  group-title="Взрослые"   tvg-name="Visit-X TV (18+)", Visit-X TV (18+)
-http://127.0.0.1:6878/ace/getstream?infohash=a250b0c5ddfa1e3aadf7c4c92361fc667ce31e60
 #EXTINF:-1  group-title="Взрослые"   tvg-name="Кино 18+ International", Кино 18+ International
 http://127.0.0.1:6878/ace/getstream?infohash=9141d4c69c757bf4f7f8284b522572781d7a364b
 #EXT-X-ENDLIST
