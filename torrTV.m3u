@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U 
 #EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 31.05.26
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
