@@ -1,3 +1,5 @@
+#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 21.06.26
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Лимончик" tvg-logo="http://i120.fastpic.org/big/2022/0731/50/479ed43fd57b1aa8ffc5922b41badf50.png", ТВЦ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/16DF4o3oBWukylxBJOWkrw,1782068134/streaming/tvc_int/324/1/tracks-v3a1/mono.m3u8
