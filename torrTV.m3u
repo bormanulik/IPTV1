@@ -1,4 +1,5 @@
-
+#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 01.07.26
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Лимончик" tvg-logo="https://mbmh5s36ok.a.trbcdn.net/572aecd6-static/channel/105/logo_256.webp", Первый HD
 #EXTVLCOPT:http-user-agent={"platform":"android","app":"limehd.ru.ctvshka","version_name":"4.0.0","version_code":"329","sdk":"29","name":"Xiaomi+Redmi+Note+7","device_id":"a079721a79f4dbe8","is_huawei":"0"}
 https://mhd116.iptv2022.com/x/RTf-GtfGDY-8ghKj_tArHw,1782931990/streaming/1kanalott/324/5/index.m3u8
