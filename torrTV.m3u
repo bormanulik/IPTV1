@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 26.09.26
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="РуТруба" ,10 канал
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=9mGGO-pjwLlpPIoEotUlGg&e=2069285073&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,10 канал /(Саранск) HD
