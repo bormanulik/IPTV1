@@ -1,1215 +1,896 @@
 #EXTM3U 
-#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 18.11.26
+#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 19.11.26
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="РуТруба",2x2
+#EXTINF:-1  group-title="РуТруба"  tvg-id="2na2" ,2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=H3Et_Dfu7ZSa1VEYkyY0XQ&e=2069285050&scheme=https
-#EXTINF:-1 group-title="РуТруба",2x2 HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="2na2" ,2x2 HD
 https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=ZmMu7SsiGmnpBtU7Gcu2Jw&e=2066519756&scheme=https
-#EXTINF:-1 group-title="РуТруба",360
+#EXTINF:-1  group-title="РуТруба"  tvg-id="360-podmoskovie" ,360
 https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=2ak5NSdLCYhtzrbPdX9Iqg&e=2069285072&scheme=https
-#EXTINF:-1 group-title="РуТруба",360.RU НОВОСТИ HD
+#EXTINF:-1  group-title="РуТруба" ,360.RU НОВОСТИ HD
 https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=v9538LQrJK0GAqtHVgBbqw&e=2066519838&scheme=https
-#EXTINF:-1 group-title="РуТруба",4 Kанал FD
+#EXTINF:-1  group-title="РуТруба" ,4 Kанал FD
 https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=Fb8a78jyBbS1tW-YDOOz4g&e=2066519781&scheme=https
-#EXTINF:-1 group-title="РуТруба",4 канал
+#EXTINF:-1  group-title="РуТруба" ,4 канал
 https://bl.rutube.ru/livestream/c6f66b644424c117f41e48062719ceed/index.m3u8?s=Lk_6elrYlUmrfIotgLyL-w&e=2069285057&scheme=https
-#EXTINF:-1 group-title="РуТруба",41 РЕГИОН
+#EXTINF:-1  group-title="РуТруба"  tvg-id="41region" ,41 РЕГИОН
 https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=IKVzsO43mWCSPypgHUx25w&e=2069285059&scheme=https
-#EXTINF:-1 group-title="РуТруба",41 регион (Петропавловск-Камчатский) HD
+#EXTINF:-1  group-title="РуТруба" ,41 регион (Петропавловск-Камчатский) HD
 https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=Sy215Sxpy1uXLSj6l83kCQ&e=2066519787&scheme=https
-#EXTINF:-1 group-title="РуТруба",Activa TV
+#EXTINF:-1  group-title="РуТруба" ,Activa TV
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=ZOZa2aks9WUX89NRUSjHlA&e=2069285076&scheme=https
-#EXTINF:-1 group-title="РуТруба",Activa TV SD
+#EXTINF:-1  group-title="РуТруба" ,Activa TV SD
 https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=r8NAnMS3uZQAQ_PS4nVeOA&e=2066519849&scheme=https
-#EXTINF:-1 group-title="РуТруба",beIN SPORTS XTRA (Español) HD
+#EXTINF:-1  group-title="РуТруба" ,beIN SPORTS XTRA (Español) HD
 https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=-wzNcUB108DYEAES0EO4qw&e=2066519928&scheme=https
-#EXTINF:-1 group-title="РуТруба",beIN SPORTS XTRA Español
+#EXTINF:-1  group-title="РуТруба" ,beIN SPORTS XTRA Español
 https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=ypMhNZzs-Tv0QTyr73TKqQ&e=2069285080&scheme=https
-#EXTINF:-1 group-title="РуТруба",Deluxe Dance
+#EXTINF:-1  group-title="РуТруба" ,Deluxe Dance
 https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=OEDc7YtWFRVhgnKKuNV2Vw&e=2069285078&scheme=https
-#EXTINF:-1 group-title="РуТруба",GLN 24 (Геленджик) HD
+#EXTINF:-1  group-title="РуТруба" ,GLN 24 (Геленджик) HD
 https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=6xtVhoM102rgf6RSEsBU6g&e=2066519773&scheme=https
-#EXTINF:-1 group-title="РуТруба",GLN24-Геленджик
+#EXTINF:-1  group-title="РуТруба" ,GLN24-Геленджик
 https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=i7LdGDATYlAumMWj6L5WyQ&e=2069285055&scheme=https
-#EXTINF:-1 group-title="РуТруба",HHQ
+#EXTINF:-1  group-title="РуТруба" ,HHQ
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=RcjR-ryPMzdAHorm4FVfbw&e=2069285055&scheme=https
-#EXTINF:-1 group-title="РуТруба",HHQ HD
+#EXTINF:-1  group-title="РуТруба" ,HHQ HD
 https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=oK_3ut_zlDkP3J7p2hPAZA&e=2066519769&scheme=https
-#EXTINF:-1 group-title="РуТруба",MIXM
+#EXTINF:-1  group-title="РуТруба" ,MIXM
 https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=doxaHsoqYqj5_gDnglpeFg&e=2069285076&scheme=https
-#EXTINF:-1 group-title="РуТруба",MIXM HD
+#EXTINF:-1  group-title="РуТруба" ,MIXM HD
 https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=554NdhC6V7d1YUFserzJIg&e=2066519851&scheme=https
-#EXTINF:-1 group-title="РуТруба",Mr.Bean Cartoon
+#EXTINF:-1  group-title="РуТруба" ,Mr.Bean Cartoon
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=dOtjvWnzxfeawsMHtWPrZA&e=2069285055&scheme=https
-#EXTINF:-1 group-title="РуТруба",Mr.Bean Cartoon HD
+#EXTINF:-1  group-title="РуТруба" ,Mr.Bean Cartoon HD
 https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
-#EXTINF:-1 group-title="РуТруба",NBA TV
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nba-tv" ,NBA TV
 https://bl.rutube.ru/livestream/d01241e9fd2bc2d65dbf6d74cca02f89/index.m3u8?s=oIFuFG4xFOs1GPGPlbjU3A&e=2069285080&scheme=https
-#EXTINF:-1 group-title="РуТруба",Now Rock HD
+#EXTINF:-1  group-title="РуТруба" ,Now Rock HD
 https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=0bWXsPFZm5w8jG58ikiKLg&e=2066519853&scheme=https
-#EXTINF:-1 group-title="РуТруба",NOW: Rock
+#EXTINF:-1  group-title="РуТруба" ,NOW: Rock
 https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=_zuuh0E6oXRXXKcD1dNi_g&e=2069285077&scheme=https
-#EXTINF:-1 group-title="РуТруба",Record Megamix
+#EXTINF:-1  group-title="РуТруба" ,Record Megamix
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=79MEqCa8Zeo17p7hzT2DQA&e=2069285078&scheme=https
-#EXTINF:-1 group-title="РуТруба",Record Megamix SD
+#EXTINF:-1  group-title="РуТруба" ,Record Megamix SD
 https://bl.rutube.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=CrIfvudR50Vl4NEnBnKtqg&e=2070450962&scheme=https
-#EXTINF:-1 group-title="РуТруба",Record Russian Hits
+#EXTINF:-1  group-title="РуТруба" ,Record Russian Hits
 https://bl.rutube.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=f_Tp4L4xpFsqimZ9A8IV1g&e=2069285078&scheme=https
-#EXTINF:-1 group-title="РуТруба",Record Trance
+#EXTINF:-1  group-title="РуТруба" ,Record Trance
 https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=T2JjanAsAPF8zSAff89ypQ&e=2069285078&scheme=https
-#EXTINF:-1 group-title="РуТруба",Record Trance HD
+#EXTINF:-1  group-title="РуТруба" ,Record Trance HD
 https://bl.rutube.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=aHNxtrPeXybDh_232K_e5g&e=2070450962&scheme=https
-#EXTINF:-1 group-title="РуТруба",Record Супердискотека 90х
+#EXTINF:-1  group-title="РуТруба" ,Record Супердискотека 90х
 https://bl.rutube.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=8sCSCJvYzF820CD1bJAOUA&e=2069285078&scheme=https
-#EXTINF:-1 group-title="РуТруба",Red Bull TV
+#EXTINF:-1  group-title="РуТруба" ,Red Bull TV
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=oWhXj9bFfZvvuZeI_sP9wQ&e=2069285079&scheme=https
-#EXTINF:-1 group-title="РуТруба",Red Bull TV HD
+#EXTINF:-1  group-title="РуТруба" ,Red Bull TV HD
 https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=k1UNcutEXItTgOgKpBfp3g&e=2066519932&scheme=https
-#EXTINF:-1 group-title="РуТруба",RU.TV
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ru-tv" ,RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=d-E-bxKy2v3EEJ94RQX9CA&e=2069285076&scheme=https
-#EXTINF:-1 group-title="РуТруба",RU.TV HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ru-tv" ,RU.TV HD
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=-vKViIF4wpjkGFeoRCdyYw&e=2066519850&scheme=https
-#EXTINF:-1 group-title="РуТруба",Rutube TV
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rutube-tv" ,Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=oHj2XcteAcYKta2217JTpA&e=2069285048&scheme=https
-#EXTINF:-1 group-title="РуТруба",Rutube TV HD
+#EXTINF:-1  group-title="РуТруба" ,Rutube TV HD
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=Ji-luKMgHpxfeSnFoMzr3Q&e=2066519748&scheme=https
-#EXTINF:-1 group-title="РуТруба",Sky Sports F1
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sky-sports-f1" ,Sky Sports F1
 https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=NZsaFOcysClfjk18vF70qw&e=2069285080&scheme=https
-#EXTINF:-1 group-title="РуТруба",Sky Sports F1 HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sky-sports-f1" ,Sky Sports F1 HD
 https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=DWjexY_20xq_JLc_xPOgUg&e=2066519930&scheme=https
-#EXTINF:-1 group-title="РуТруба",Sky Sports Main Event SD
+#EXTINF:-1  group-title="РуТруба" ,Sky Sports Main Event SD
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=n0iLdWKeEdSsaodxVwDf9Q&e=2066519931&scheme=https
-#EXTINF:-1 group-title="РуТруба",Sky Sports Premier League
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sky-sports-apl" ,Sky Sports Premier League
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=pAegGgg9Xsr7eJ7tc0R4Gg&e=2069285081&scheme=https
-#EXTINF:-1 group-title="РуТруба",Sky Sports Tennis
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sky-sports-tennis" ,Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=ydYOoj-r8m58g-gEwCxJRg&e=2069285080&scheme=https
-#EXTINF:-1 group-title="РуТруба",Sky Sports Tennis SD
+#EXTINF:-1  group-title="РуТруба" ,Sky Sports Tennis SD
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
-#EXTINF:-1 group-title="РуТруба",Sports Grid
+#EXTINF:-1  group-title="РуТруба" ,Sports Grid
 https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=qZbiy9QFRzyiZ-QlLUjOUg&e=2069285089&scheme=https
-#EXTINF:-1 group-title="РуТруба",Sports Grid
+#EXTINF:-1  group-title="РуТруба" ,Sports Grid
 https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=ALygo18fUFRkppY9qYoA1Q&e=2069285079&scheme=https
-#EXTINF:-1 group-title="РуТруба",TVS Classic Sports
+#EXTINF:-1  group-title="РуТруба" ,TVS Classic Sports
 https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=F5L2zti4mhM62ePZ8yLwrw&e=2069285080&scheme=https
-#EXTINF:-1 group-title="РуТруба",TVS Classic Sports
+#EXTINF:-1  group-title="РуТруба" ,TVS Classic Sports
 https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=H1FslczdYP6OFc0dZMUlpw&e=2065265105&scheme=https
-#EXTINF:-1 group-title="РуТруба",Unbeaten
+#EXTINF:-1  group-title="РуТруба" ,Unbeaten
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=VyEyVnw_cmiK7AMHE2yzvQ&e=2069285089&scheme=https
-#EXTINF:-1 group-title="РуТруба",Unbeaten HD
+#EXTINF:-1  group-title="РуТруба" ,Unbeaten HD
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=JJ1LT-dHls975qnnen4uqA&e=2066519933&scheme=https
-#EXTINF:-1 group-title="РуТруба",UNIVER HD
+#EXTINF:-1  group-title="РуТруба" ,UNIVER HD
 https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=gnHOBfhHc9MLalHXeJlyHg&e=2066519833&scheme=https
-#EXTINF:-1 group-title="РуТруба",UNIVER TV
+#EXTINF:-1  group-title="РуТруба"  tvg-id="univer-tv" ,UNIVER TV
 https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=MG02nNm0ZqE67wbJE2M2Mw&e=2069285070&scheme=https
-#EXTINF:-1 group-title="РуТруба",UTV
+#EXTINF:-1  group-title="РуТруба"  tvg-id="utv" ,UTV
 https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=A_DlmPojyhJ0l5Qn1xxpfw&e=2069285060&scheme=https
-#EXTINF:-1 group-title="РуТруба",UTV (Уфа) HD
+#EXTINF:-1  group-title="РуТруба" ,UTV (Уфа) HD
 https://bl.rutube.ru/livestream/673b559e08f8b99d65a4e8fbbceb911b/index.m3u8?s=NL77LksP20OAiN-MivIibg&e=2066519790&scheme=https
-#EXTINF:-1 group-title="РуТруба",Viva Russia HD
+#EXTINF:-1  group-title="РуТруба" ,Viva Russia HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=DMmpli1WIQUocDbjCe_9Cg&e=2070450963&scheme=https
-#EXTINF:-1 group-title="РуТруба",VIVA Russia HD
+#EXTINF:-1  group-title="РуТруба" ,VIVA Russia HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=FMe6GGKrDGEuVDNYRmuK4g&e=2069285079&scheme=https
-#EXTINF:-1 group-title="РуТруба",АРИС 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="aris24" ,АРИС 24
 https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=FIgF_YQWg6v6SYteSFn4kA&e=2069285062&scheme=https
-#EXTINF:-1 group-title="РуТруба",АРИС 24 SD
+#EXTINF:-1  group-title="РуТруба" ,АРИС 24 SD
 https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=nda06fVGU9AiCZsmS0J2Pg&e=2066519802&scheme=https
-#EXTINF:-1 group-title="РуТруба",Абакан 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="abakan24" ,Абакан 24
 https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=y_cSkfqVa6ngpt9ZNT1WIg&e=2069285061&scheme=https
-#EXTINF:-1 group-title="РуТруба",Абакан 24 HD
+#EXTINF:-1  group-title="РуТруба" ,Абакан 24 HD
 https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=Ug6MN9MbECKOskABm2GeoA&e=2066519796&scheme=https
-#EXTINF:-1 group-title="РуТруба",Ариг Ус 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="arig-us-24" ,Ариг Ус 24
 https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=FyZGGbEO6VyMY3AgAvrQSg&e=2069285062&scheme=https
-#EXTINF:-1 group-title="РуТруба",Ариг Ус 24 HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="arig-us-24" ,Ариг Ус 24 HD
 https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=K3Oh8js_83WRn0n3udjPQQ&e=2066519800&scheme=https
-#EXTINF:-1 group-title="РуТруба",БСТ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="bst" ,БСТ
 https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=1fYpLgECEeScoYetw4VqPg&e=2069285063&scheme=https
-#EXTINF:-1 group-title="РуТруба",БСТ24 (Братск) HD
+#EXTINF:-1  group-title="РуТруба" ,БСТ24 (Братск) HD
 https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=hvmtyHfG9QInYImxSk8lbA&e=2066519803&scheme=https
-#EXTINF:-1 group-title="РуТруба",БТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="btvmd" ,БТВ
 https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=vbC4Az1qJg0FZ-riIOviTQ&e=2069285070&scheme=https
-#EXTINF:-1 group-title="РуТруба",БТВ HD
+#EXTINF:-1  group-title="РуТруба" ,БТВ HD
 https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=6C4PT8m7dx1Hscxg6iJObQ&e=2066519832&scheme=https
-#EXTINF:-1 group-title="РуТруба",Барс
+#EXTINF:-1  group-title="РуТруба"  tvg-id="bars" ,Барс
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=zy6GEno6ZEOvnJ6RwiCscg&e=2069285057&scheme=https
-#EXTINF:-1 group-title="РуТруба",Барс HD
+#EXTINF:-1  group-title="РуТруба" ,Барс HD
 https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=WMIgBcqmG4C_EpiDRhLvBw&e=2066519778&scheme=https
-#EXTINF:-1 group-title="РуТруба",Башкортостан 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="bashkortostan24" ,Башкортостан 24
 https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=X3AmqsMLJE9t7C_e_rqjIg&e=2069285061&scheme=https
-#EXTINF:-1 group-title="РуТруба",Башкортостан 24 HD
+#EXTINF:-1  group-title="РуТруба" ,Башкортостан 24 HD
 https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=3px0nQrHBSqTFUNj1ElJlw&e=2066519795&scheme=https
-#EXTINF:-1 group-title="РуТруба",БелРос
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tro" ,БелРос
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=W2K7RQTtQkNmwAC_Yc0NsQ&e=2069285057&scheme=https
-#EXTINF:-1 group-title="РуТруба",БелРос FD
+#EXTINF:-1  group-title="РуТруба" ,БелРос FD
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=VHiYqSicSMcfMQP30ve9QA&e=2066519782&scheme=https
-#EXTINF:-1 group-title="РуТруба",Большая Азия SD
+#EXTINF:-1  group-title="РуТруба" ,Большая Азия SD
 https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=us0e52hk89iBthB6Pt0lOg&e=2066519760&scheme=https
-#EXTINF:-1 group-title="РуТруба",Большая азия
+#EXTINF:-1  group-title="РуТруба"  tvg-id="bolshaya-azia" ,Большая азия
 https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=H445j62z1yjihZAL6z3YlA&e=2069285052&scheme=https
-#EXTINF:-1 group-title="РуТруба",Буряад ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="buriaad" ,Буряад ТВ
 https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=76Gf1wcWxBTfXYkSmtNK3g&e=2069285055&scheme=https
-#EXTINF:-1 group-title="РуТруба",Буряад ТВ HD
+#EXTINF:-1  group-title="РуТруба" ,Буряад ТВ HD
 https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=CkEmYnzXBmAX73q3SLRPrw&e=2066519771&scheme=https
-#EXTINF:-1 group-title="РуТруба",ВЕТТА 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vetta24" ,ВЕТТА 24
 https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=8S_Gptvam5xHKr6bfr_CuA&e=2069285063&scheme=https
-#EXTINF:-1 group-title="РуТруба",ВЕТТА 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vetta24" ,ВЕТТА 24
 https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=oDHhCmReYrerad-9eZXpcw&e=2066519805&scheme=https
-#EXTINF:-1 group-title="РуТруба",Вестник Надыма
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vestnik-nadyma" ,Вестник Надыма
 https://bl.rutube.ru/livestream/d8857b5b4c4fa78869a13f5e3ca9d4c4/index.m3u8?s=kNxbgEOJQEq6iMnR6xCLtA&e=2069285058&scheme=https
-#EXTINF:-1 group-title="РуТруба",Вестник Надыма HD
+#EXTINF:-1  group-title="РуТруба" ,Вестник Надыма HD
 https://bl.rutube.ru/livestream/d8857b5b4c4fa78869a13f5e3ca9d4c4/index.m3u8?s=lRkxQDHcN9KL9BZ4i7Dvww&e=2066519785&scheme=https
-#EXTINF:-1 group-title="РуТруба",Волга
+#EXTINF:-1  group-title="РуТруба"  tvg-id="volga" ,Волга
 https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=N5OwLyk_42tuhrvH9V4lig&e=2069285060&scheme=https
-#EXTINF:-1 group-title="РуТруба",Волга 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vremia-n" ,Волга 24
 https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=5g1EL-lNa7XfrEXJDsUC5w&e=2069285061&scheme=https
-#EXTINF:-1 group-title="РуТруба",Волга 24 SD
+#EXTINF:-1  group-title="РуТруба" ,Волга 24 SD
 https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=WPBiYUCv4Jd4DgTCpVqU_A&e=2066519794&scheme=https
-#EXTINF:-1 group-title="РуТруба",Волга SD
+#EXTINF:-1  group-title="РуТруба" ,Волга SD
 https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=wBfagLzS0qL0wIm4OE7-3g&e=2066519792&scheme=https
-#EXTINF:-1 group-title="РуТруба",Волейбол
+#EXTINF:-1  group-title="РуТруба"  tvg-id="voleybol" ,Волейбол
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=3-VRJTEZ7wjL3RgR7Rg5xg&e=2069285087&scheme=https
-#EXTINF:-1 group-title="РуТруба",Волейбол HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="voleybol" ,Волейбол HD
 https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=62YA56HThqaPRiNQeIIuFA&e=2066519932&scheme=https
-#EXTINF:-1 group-title="РуТруба",Восток ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vostok-tv" ,Восток ТВ
 https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=PtbcHOyS2Vz5Ikieg5Py7g&e=2069285077&scheme=https
-#EXTINF:-1 group-title="РуТруба",Восток ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vostok-tv" ,Восток ТВ
 https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=VoCacC9uCktgvBV956FODA&e=2066519855&scheme=https
-#EXTINF:-1 group-title="РуТруба",Вся Уфа
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vsia-ufa" ,Вся Уфа
 https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=00KMkFjLRPgT2WtWzWtp7Q&e=2069285059&scheme=https
-#EXTINF:-1 group-title="РуТруба",Вся Уфа HD
+#EXTINF:-1  group-title="РуТруба" ,Вся Уфа HD
 https://bl.rutube.ru/livestream/5a88a8d75565c5cdebeb11d87bfc61e9/index.m3u8?s=T6taRwAipt9M4x6hxshLlQ&e=2066519788&scheme=https
-#EXTINF:-1 group-title="РуТруба",ДОН 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="don-24" ,ДОН 24
 https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=Qu4dVYbveoZ4m3ZWavj1UA&e=2069285062&scheme=https
-#EXTINF:-1 group-title="РуТруба",ДОН 24 HD
+#EXTINF:-1  group-title="РуТруба" ,ДОН 24 HD
 https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=NOfduniCzjCdJ-zdkFjsGw&e=2066519800&scheme=https
-#EXTINF:-1 group-title="РуТруба",Евразия
+#EXTINF:-1  group-title="РуТруба"  tvg-id="evrasia" ,Евразия
 https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=EdGkXeDTdyqutMud0U9e1w&e=2069285066&scheme=https
-#EXTINF:-1 group-title="РуТруба",Евразия SD
+#EXTINF:-1  group-title="РуТруба" ,Евразия SD
 https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=WLfj0Tnw1AXoMgJkXmxX-w&e=2066519816&scheme=https
-#EXTINF:-1 group-title="РуТруба",Енисей +4 (Орион)
+#EXTINF:-1  group-title="РуТруба" ,Енисей +4 (Орион)
 https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=eyHEzwNX3OXnqCcXgNfgbA&e=2069285067&scheme=https
-#EXTINF:-1 group-title="РуТруба",Енисей HD
+#EXTINF:-1  group-title="РуТруба" ,Енисей HD
 https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=r3_ROwHsICkEPK_gy600wg&e=2066519824&scheme=https
-#EXTINF:-1 group-title="РуТруба",Жар Птица
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zhar-ptica" ,Жар Птица
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=cH5fXYncxL-0olUGq2vvaA&e=2069285075&scheme=https
-#EXTINF:-1 group-title="РуТруба",Жар Птица
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zhar-ptica" ,Жар Птица
 https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=xH56fAjQ8MlehHdOHaRXZQ&e=2066519848&scheme=https
-#EXTINF:-1 group-title="РуТруба",ЗВЕЗДА HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zvezda" ,ЗВЕЗДА HD
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=hXjqQZCnC74PCA0_2_CX-A&e=2066519791&scheme=https
-#EXTINF:-1 group-title="РуТруба",Загородный
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zagorodny" ,Загородный
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=e3gd8zlogu4ybvafQost4g&e=2070450932&scheme=https
-#EXTINF:-1 group-title="РуТруба",Загородный International
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zagorodny-int" ,Загородный International
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=cd38q45nVH7zIbdX7thr0A&e=2069285052&scheme=https
-#EXTINF:-1 group-title="РуТруба",Загородный International HD
+#EXTINF:-1  group-title="РуТруба" ,Загородный International HD
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=QphNe1SSqWIVzqysroZi3A&e=2066519763&scheme=https
-#EXTINF:-1 group-title="РуТруба",Звезда
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zvezda" ,Звезда
 https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=HZime4xO3o2sA2Nw0JD--w&e=2069285060&scheme=https
-#EXTINF:-1 group-title="РуТруба",Илли ТВ
+#EXTINF:-1  group-title="РуТруба" ,Илли ТВ
 https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=k_DzdrajYmMIyMla2cXvRA&e=2069285077&scheme=https
-#EXTINF:-1 group-title="РуТруба",Илли ТВ
+#EXTINF:-1  group-title="РуТруба" ,Илли ТВ
 https://bl.rutube.ru/livestream/eda2da42eea89951e4135141a30915f7/index.m3u8?s=0AP_7WCyy211L0oNRlVmbQ&e=2066519855&scheme=https
-#EXTINF:-1 group-title="РуТруба",Импульс Севера
+#EXTINF:-1  group-title="РуТруба"  tvg-id="impuls-sewera" ,Импульс Севера
 https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=kJjxzGlvoNoIir6q7nMZqQ&e=2069285065&scheme=https
-#EXTINF:-1 group-title="РуТруба",Импульс Севера HD
+#EXTINF:-1  group-title="РуТруба" ,Импульс Севера HD
 https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=4PL1ZOqe2Vpd76nIpf65xQ&e=2066519814&scheme=https
-#EXTINF:-1 group-title="РуТруба",Истоки (Орёл) FD
+#EXTINF:-1  group-title="РуТруба" ,Истоки (Орёл) FD
 https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=TIPTHnwUdybQm6r6fuGMlg&e=2066519837&scheme=https
-#EXTINF:-1 group-title="РуТруба",Истоки Орёл
+#EXTINF:-1  group-title="РуТруба" ,Истоки Орёл
 https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=Cd3CuDc5mh2eNN26ugpFNA&e=2069285072&scheme=https
-#EXTINF:-1 group-title="РуТруба",КРИК-ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="krik-tv" ,КРИК-ТВ
 https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=LMV1THGPsDYj00j7XSXqDQ&e=2069285064&scheme=https
-#EXTINF:-1 group-title="РуТруба",КРИК-ТВ HD
+#EXTINF:-1  group-title="РуТруба" ,КРИК-ТВ HD
 https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=zqF8COx7qN-jbhFv7NK-7A&e=2066519811&scheme=https
-#EXTINF:-1 group-title="РуТруба",Катунь 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="katun-24" ,Катунь 24
 https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=YBCyMKAi_VxFweQYVKz2RA&e=2066519804&scheme=https
-#EXTINF:-1 group-title="РуТруба",Катунь 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="katun-24" ,Катунь 24
 https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=iNdPOE_nr8u6jbgOaAkY-A&e=2069285063&scheme=https
-#EXTINF:-1 group-title="РуТруба",Кино и Жизнь
+#EXTINF:-1  group-title="РуТруба"  tvg-id="kino-i-zhizn" ,Кино и Жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=fupxxtJxZ7eqBbPqaQsvTw&e=2069285074&scheme=https
-#EXTINF:-1 group-title="РуТруба",Кино и Жизнь
+#EXTINF:-1  group-title="РуТруба"  tvg-id="kino-i-zhizn" ,Кино и Жизнь
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=Zkw5icYwNfG7NIdX9ITSSg&e=2065265080&scheme=https
-#EXTINF:-1 group-title="РуТруба",Кино и Жизнь HD
+#EXTINF:-1  group-title="РуТруба" ,Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
-#EXTINF:-1 group-title="РуТруба",Киножелезо
+#EXTINF:-1  group-title="РуТруба"  tvg-id="kinozelezo" ,Киножелезо
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=09cuASII_HOaxki8OsQxgA&e=2069285053&scheme=https
-#EXTINF:-1 group-title="РуТруба",Киножелезо HD
+#EXTINF:-1  group-title="РуТруба" ,Киножелезо HD
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=k-NjGhi6zbRbggtmHIUL8Q&e=2065265031&scheme=https
-#EXTINF:-1 group-title="РуТруба",Киножелезо HD
+#EXTINF:-1  group-title="РуТруба" ,Киножелезо HD
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
-#EXTINF:-1 group-title="РуТруба",Кинолаффка
+#EXTINF:-1  group-title="РуТруба"  tvg-id="kinolaffka" ,Кинолаффка
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=9gx24jro7_w9qatCH3oJFQ&e=2069285053&scheme=https
-#EXTINF:-1 group-title="РуТруба",Кинолаффка HD
+#EXTINF:-1  group-title="РуТруба" ,Кинолаффка HD
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https
-#EXTINF:-1 group-title="РуТруба",Кинолаффка HD
+#EXTINF:-1  group-title="РуТруба" ,Кинолаффка HD
 https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=EitE3dIQuvlRYwy1O3-YuA&e=2066519766&scheme=https
-#EXTINF:-1 group-title="РуТруба",Кубань 24 SD
+#EXTINF:-1  group-title="РуТруба" ,Кубань 24 SD
 https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=2nqIBlbv8uEJBzk7xG6ZWQ&e=2066519797&scheme=https
-#EXTINF:-1 group-title="РуТруба",ЛТВ
+#EXTINF:-1  group-title="РуТруба" ,ЛТВ
 https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=JTt9UD1Q34jySSRpgBCTXw&e=2069285060&scheme=https
-#EXTINF:-1 group-title="РуТруба",ЛТВ (Люберцы) HD
+#EXTINF:-1  group-title="РуТруба" ,ЛТВ (Люберцы) HD
 https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=V_WI608PeoauknjVy0Uw_g&e=2066519793&scheme=https
-#EXTINF:-1 group-title="РуТруба",Липецк 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="lipeck24" ,Липецк 24
 https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=Mq2NA0GKj1KphQhsiaGMHQ&e=2069285062&scheme=https
-#EXTINF:-1 group-title="РуТруба",Липецк 24 HD
+#EXTINF:-1  group-title="РуТруба" ,Липецк 24 HD
 https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=mrvmhBkT9q1KM6G_5sgHTA&e=2066519799&scheme=https
-#EXTINF:-1 group-title="РуТруба",Липецкое время
+#EXTINF:-1  group-title="РуТруба"  tvg-id="lipeckoe-vremia" ,Липецкое время
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=Nw7bMRr_mcNZE7IM2jbbgA&e=2069285064&scheme=https
-#EXTINF:-1 group-title="РуТруба",Липецкое время SD
+#EXTINF:-1  group-title="РуТруба" ,Липецкое время SD
 https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=XGcrkT1QA7cw79wR-sQifw&e=2066519808&scheme=https
-#EXTINF:-1 group-title="РуТруба",МИР 24 HD
+#EXTINF:-1  group-title="РуТруба" ,МИР 24 HD
 https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=lswkUz3NQQHnD-a8WTcTEw&e=2066519806&scheme=https
-#EXTINF:-1 group-title="РуТруба",МИР HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mir" ,МИР HD
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mDyveoQbng2S0kuPX84FbQ&e=2066519809&scheme=https
-#EXTINF:-1 group-title="РуТруба",МИТВ
+#EXTINF:-1  group-title="РуТруба" ,МИТВ
 https://bl.rutube.ru/livestream/05065508aed175eaf0f92ef633561974/index.m3u8?s=dU1nDV4y-dPUhfceAFZmXw&e=2069285067&scheme=https
-#EXTINF:-1 group-title="РуТруба",МИТВ (Усть-Илимск) SD
+#EXTINF:-1  group-title="РуТруба" ,МИТВ (Усть-Илимск) SD
 https://bl.rutube.ru/livestream/05065508aed175eaf0f92ef633561974/index.m3u8?s=5_YmojXX3i32uXZS2FX-ZA&e=2066519827&scheme=https
-#EXTINF:-1 group-title="РуТруба",ММТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="muzykamodatv" ,ММТВ
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=swZ9QnHMT4hcnaukDHRdtw&e=2069285077&scheme=https
-#EXTINF:-1 group-title="РуТруба",ММТВ HD
+#EXTINF:-1  group-title="РуТруба" ,ММТВ HD
 https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Mn0zcNb_7CJ_LE91r5mKdw&e=2066519853&scheme=https
-#EXTINF:-1 group-title="РуТруба",МТВ Волгоград
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mtv-volgograd" ,МТВ Волгоград
 https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=A6opd76kWXltJBBoysANpA&e=2069285067&scheme=https
-#EXTINF:-1 group-title="РуТруба",Магас
+#EXTINF:-1  group-title="РуТруба" ,Магас
 https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=RjmdLZSzfnqG9UbIc5rAqg&e=2069285070&scheme=https
-#EXTINF:-1 group-title="РуТруба",Магас HD
+#EXTINF:-1  group-title="РуТруба" ,Магас HD
 https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=OwnKCCEdf_LJpzXN7qCZWA&e=2066519834&scheme=https
-#EXTINF:-1 group-title="РуТруба",Матч ТВ HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="match-tv" ,Матч ТВ HD
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=W76dQnw6UUOMTcTX-QSm8A&e=2069285079&scheme=https
-#EXTINF:-1 group-title="РуТруба",Матч! HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="match-tv" ,Матч! HD
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=X4W1ipNuOnqSHZIawEq4RA&e=2066519928&scheme=https
-#EXTINF:-1 group-title="РуТруба",Мир
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mir" ,Мир
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=tKxCHVLOZ0qBct8z2Gu8Iw&e=2069285064&scheme=https
-#EXTINF:-1 group-title="РуТруба",Мир 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mir-24" ,Мир 24
 https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=5sG2kDsDrAtgF_lYFbqVnQ&e=2069285063&scheme=https
-#EXTINF:-1 group-title="РуТруба",Мир Белогорья
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mir-belogoria" ,Мир Белогорья
 https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=GQqfk77HQeqYX2vBMimwkw&e=2069285068&scheme=https
-#EXTINF:-1 group-title="РуТруба",Мир Белогорья HD
+#EXTINF:-1  group-title="РуТруба" ,Мир Белогорья HD
 https://bl.rutube.ru/livestream/31bd9a668e5dfe5feddb988c96c0998c/index.m3u8?s=4MgkJekEHq7HCpauhgAhlA&e=2066519830&scheme=https
-#EXTINF:-1 group-title="РуТруба",Мордовия 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mordovia-24" ,Мордовия 24
 https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=ZdZTzJcReJRIYKn7ajgFog&e=2066519801&scheme=https
-#EXTINF:-1 group-title="РуТруба",Мордовия 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mordovia-24" ,Мордовия 24
 https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=nTBjCYbBIPZrGRzBsa_2qA&e=2069285062&scheme=https
-#EXTINF:-1 group-title="РуТруба",МузСоюз
+#EXTINF:-1  group-title="РуТруба"  tvg-id="muzsoyuz" ,МузСоюз
 https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=PoqqEdj5nrvmyQc8Vt27bA&e=2069285077&scheme=https
-#EXTINF:-1 group-title="РуТруба",МузТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="muztv" ,МузТВ
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=3x2h0DsMOIfhcHIPlGkcxw&e=2069285076&scheme=https
-#EXTINF:-1 group-title="РуТруба",МузТВ HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="muztv" ,МузТВ HD
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
-#EXTINF:-1 group-title="РуТруба",ННТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nntv" ,ННТВ
 https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=jH-icQYHCGT0-N98caMj0w&e=2069285066&scheme=https
-#EXTINF:-1 group-title="РуТруба",ННТВ SD
+#EXTINF:-1  group-title="РуТруба" ,ННТВ SD
 https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=QKJvjAHdCmOwvCYdKLFYLQ&e=2066519818&scheme=https
-#EXTINF:-1 group-title="РуТруба",НТВ HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ntv" ,НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=KRpRtdju100oOaCoxpKyPg&e=2066519750&scheme=https
-#EXTINF:-1 group-title="РуТруба",НТВ HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ntv" ,НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=igQsAY6jjMrZlDidg-nMDA&e=2069285048&scheme=https
-#EXTINF:-1 group-title="РуТруба",НТС (Иркутск) HD
+#EXTINF:-1  group-title="РуТруба" ,НТС (Иркутск) HD
 https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=kYL35o_hKo4QqOuOmU-0ug&e=2066519816&scheme=https
-#EXTINF:-1 group-title="РуТруба",НТС Иркутск
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nts-irkutsk" ,НТС Иркутск
 https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=MfB3mkdKuihm9bZ0M_SDdQ&e=2069285066&scheme=https
-#EXTINF:-1 group-title="РуТруба",Нано ТВ
+#EXTINF:-1  group-title="РуТруба" ,Нано ТВ
 https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=Pkl1_smmyvWJKRjSlEuyNw&e=2069285052&scheme=https
-#EXTINF:-1 group-title="РуТруба",Нано ТВ FD
+#EXTINF:-1  group-title="РуТруба" ,Нано ТВ FD
 https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=u9K363mAbHBgHUInW6405g&e=2066519761&scheme=https
-#EXTINF:-1 group-title="РуТруба",Ника ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nika-tv" ,Ника ТВ
 https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=LO1zeWcgyV-YkPz6GUMNiw&e=2069285059&scheme=https
-#EXTINF:-1 group-title="РуТруба",Ника ТВ SD
+#EXTINF:-1  group-title="РуТруба" ,Ника ТВ SD
 https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=Cq5FAbd7OcqDeJ24tuqOiA&e=2066519789&scheme=https
-#EXTINF:-1 group-title="РуТруба",ОТР
+#EXTINF:-1  group-title="РуТруба"  tvg-id="otr" ,ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=myCiPZ9tgMw3BA2thLhQhA&e=2069285071&scheme=https
-#EXTINF:-1 group-title="РуТруба",ОТР SD
+#EXTINF:-1  group-title="РуТруба" ,ОТР SD
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=i9-CS7XwJ2d3q51PMplIOA&e=2066519836&scheme=https
-#EXTINF:-1 group-title="РуТруба",ОТС HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ots" ,ОТС HD
 https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=aYqaNuqVm5IaDB2j-wcW9g&e=2069285056&scheme=https
-#EXTINF:-1 group-title="РуТруба",ОТС HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ots" ,ОТС HD
 https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=c9q62gBoFEddan05egItTQ&e=2066519773&scheme=https
-#EXTINF:-1 group-title="РуТруба",Омск ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="omsk-tv" ,Омск ТВ
 https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=AwAoS4rBjaAzkrTdadTO8w&e=2069285068&scheme=https
-#EXTINF:-1 group-title="РуТруба",Омск ТВ HD
+#EXTINF:-1  group-title="РуТруба" ,Омск ТВ HD
 https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=aSNXxtic2ewXnT46q6Z7_A&e=2066519829&scheme=https
-#EXTINF:-1 group-title="РуТруба",Охотник и Рыболов HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="oxotnik-i-rybolov-hd" ,Охотник и Рыболов HD
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=Yy4ehw-YB7ZiY2SyvFot-w&e=2066519762&scheme=https
-#EXTINF:-1 group-title="РуТруба",Охотник и рыболов
+#EXTINF:-1  group-title="РуТруба"  tvg-id="oxotnik-i-rybolov" ,Охотник и рыболов
 https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=PwJ0rnTzfyYCgqlWLbHmCw&e=2069285052&scheme=https
-#EXTINF:-1 group-title="РуТруба",ПЕРВЫЙ КАНАЛ SD
+#EXTINF:-1  group-title="РуТруба" ,ПЕРВЫЙ КАНАЛ SD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=RRyK9h1rVwc4QOrY4h721g&e=2066519749&scheme=https
-#EXTINF:-1 group-title="РуТруба",ПЯТНИЦА! HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="piatnica" ,ПЯТНИЦА! HD
 https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=N_clKU9DhT2wtHwrnQNtHg&e=2066519753&scheme=https
-#EXTINF:-1 group-title="РуТруба",Первоуральск ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="pervouralsk-tv" ,Первоуральск ТВ
 https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=cyFnSDLZUiuMzhNnLvhrnA&e=2069285057&scheme=https
-#EXTINF:-1 group-title="РуТруба",Первоуральск ТВ HD
+#EXTINF:-1  group-title="РуТруба" ,Первоуральск ТВ HD
 https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=Hh_6n0LBF9hv2gB_WddMnQ&e=2066519780&scheme=https
-#EXTINF:-1 group-title="РуТруба",Первый Тульский
+#EXTINF:-1  group-title="РуТруба"  tvg-id="pervy-tulsky" ,Первый Тульский
 https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=n_rXIFuG71qvOomm9ZSq9A&e=2069285071&scheme=https
-#EXTINF:-1 group-title="РуТруба",Первый Тульский HD
+#EXTINF:-1  group-title="РуТруба" ,Первый Тульский HD
 https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=5uBJooVgxA3Jvc_HlhtMBA&e=2066519836&scheme=https
-#EXTINF:-1 group-title="РуТруба",Первый Ярославский
+#EXTINF:-1  group-title="РуТруба"  tvg-id="pervy-yaroslavsky" ,Первый Ярославский
 https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=zjpg_Wf5iDA6u6oqbSjLxQ&e=2069285071&scheme=https
-#EXTINF:-1 group-title="РуТруба",Первый Ярославский HD
+#EXTINF:-1  group-title="РуТруба" ,Первый Ярославский HD
 https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=bFChM5wWx48CyuwcEbsRzg&e=2066519835&scheme=https
-#EXTINF:-1 group-title="РуТруба",Первый канал HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="pervy" ,Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=cdEX_MDZxQc2DELRdY3CwQ&e=2069285048&scheme=https
-#EXTINF:-1 group-title="РуТруба",Прима
+#EXTINF:-1  group-title="РуТруба"  tvg-id="prima" ,Прима
 https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=W7oOqsVscE7jYrS47p1eBw&e=2069285072&scheme=https
-#EXTINF:-1 group-title="РуТруба",Прима HD
+#EXTINF:-1  group-title="РуТруба" ,Прима HD
 https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=j8p6vqYxCSO9lgbEMNq6BQ&e=2066519840&scheme=https
-#EXTINF:-1 group-title="РуТруба",Продвижение
+#EXTINF:-1  group-title="РуТруба"  tvg-id="prodvizhenie" ,Продвижение
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=E2RfWrb4j1Vl6Ej5EL6yCA&e=2069285065&scheme=https
-#EXTINF:-1 group-title="РуТруба",Продвижение HD
+#EXTINF:-1  group-title="РуТруба" ,Продвижение HD
 https://bl.rutube.ru/livestream/ff5c11c9a51750f5d33427762abc315c/index.m3u8?s=IBzoayhf0EhnnlzfDnDidg&e=2066519813&scheme=https
-#EXTINF:-1 group-title="РуТруба",Пятница HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="piatnica" ,Пятница HD
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=CYCZBawz-6iDk0PWMSQbbQ&e=2069285049&scheme=https
-#EXTINF:-1 group-title="РуТруба",РБК
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rbk" ,РБК
 https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=6W3R7vjqZB_uElpvlhfU3A&e=2066519784&scheme=https
-#EXTINF:-1 group-title="РуТруба",РБК
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rbk" ,РБК
 https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=s0wEqh0U_IoPC28jsFPDtw&e=2069285058&scheme=https
-#EXTINF:-1 group-title="РуТруба",РГВК Дагестан
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rgvk-dagestan" ,РГВК Дагестан
 https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=MLsfUNG8dJRbOT8tWuIjSA&e=2069285058&scheme=https
-#EXTINF:-1 group-title="РуТруба",РГВК Дагестан HD
+#EXTINF:-1  group-title="РуТруба" ,РГВК Дагестан HD
 https://bl.rutube.ru/livestream/fcafa0d358df671e4f7c61ca54c79bea/index.m3u8?s=AxjISr3aupMpHKf37WASbQ&e=2066519783&scheme=https
-#EXTINF:-1 group-title="РуТруба",Радость моя
+#EXTINF:-1  group-title="РуТруба"  tvg-id="radost-moya" ,Радость моя
 https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=s69eFbfMtzsJzZNYhChyhA&e=2069285074&scheme=https
-#EXTINF:-1 group-title="РуТруба",Радость моя FD
+#EXTINF:-1  group-title="РуТруба" ,Радость моя FD
 https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=-clkQoFLfOfwwoPaI8eVsQ&e=2066519844&scheme=https
-#EXTINF:-1 group-title="РуТруба",Резонанс ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rezonans" ,Резонанс ТВ
 https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=cI7yf8T6pCoTa9_6TfxwSw&e=2069285074&scheme=https
-#EXTINF:-1 group-title="РуТруба",Рифей-ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rifey-tv" ,Рифей-ТВ
 https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=W7tHW149s06iMkE9y0YT7w&e=2069285064&scheme=https
-#EXTINF:-1 group-title="РуТруба",Рифей-ТВ (Пермь) HD
+#EXTINF:-1  group-title="РуТруба" ,Рифей-ТВ (Пермь) HD
 https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=DL6i1pTl8IQ0bkCuBO1-Ng&e=2066519809&scheme=https
-#EXTINF:-1 group-title="РуТруба",С1 (Сургут) HD
+#EXTINF:-1  group-title="РуТруба" ,С1 (Сургут) HD
 https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=XoIazNCPvm2NGPhbw3HNFA&e=2066519777&scheme=https
-#EXTINF:-1 group-title="РуТруба",САМОТЛОР
+#EXTINF:-1  group-title="РуТруба" ,САМОТЛОР
 https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=DKfTUeZM2MkuNDcek-qgvg&e=2069285065&scheme=https
-#EXTINF:-1 group-title="РуТруба",Самотлор (Нижневартовск) SD
+#EXTINF:-1  group-title="РуТруба" ,Самотлор (Нижневартовск) SD
 https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=V8w128YOnMQ39m2RmTtTHA&e=2066519815&scheme=https
-#EXTINF:-1 group-title="РуТруба",Сангат
+#EXTINF:-1  group-title="РуТруба" ,Сангат
 https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=xkOOS6tABPAJtzxXdqOK6g&e=2069285056&scheme=https
-#EXTINF:-1 group-title="РуТруба",Сангат HD
+#EXTINF:-1  group-title="РуТруба" ,Сангат HD
 https://bl.rutube.ru/livestream/dce1080977de5e89dcbd1dd24d014b4e/index.m3u8?s=aDXE4IuicI80dwoSa598dg&e=2066519774&scheme=https
-#EXTINF:-1 group-title="РуТруба",Саратов 24
+#EXTINF:-1  group-title="РуТруба"  tvg-id="saratov-24" ,Саратов 24
 https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=5K8RHHxIzB-6eWLOhhAiRQ&e=2069285061&scheme=https
-#EXTINF:-1 group-title="РуТруба",Саратов 24 HD
+#EXTINF:-1  group-title="РуТруба" ,Саратов 24 HD
 https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=o0ktlvTzTfhFIdLpXR_1jQ&e=2066519798&scheme=https
-#EXTINF:-1 group-title="РуТруба",Своё ТВ FHD
+#EXTINF:-1  group-title="РуТруба" ,Своё ТВ FHD
 https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=wIHW-XJxwUotZoyIRTfuUA&e=2069285065&scheme=https
-#EXTINF:-1 group-title="РуТруба",Своё ТВ HD
+#EXTINF:-1  group-title="РуТруба" ,Своё ТВ HD
 https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=UAomZvLm8vOyZ7zbSSreUw&e=2066519812&scheme=https
-#EXTINF:-1 group-title="РуТруба",Смайлик ТВ
+#EXTINF:-1  group-title="РуТруба"  tvg-id="smaylik-tv" ,Смайлик ТВ
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=MOCY2JvPXriCsyJWQK1Lag&e=2069285075&scheme=https
-#EXTINF:-1 group-title="РуТруба",Смайлик ТВ SD
+#EXTINF:-1  group-title="РуТруба" ,Смайлик ТВ SD
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=YAP6H4HdmLiQ3ji9VIdFbg&e=2066519845&scheme=https
-#EXTINF:-1 group-title="РуТруба",Смотри Радио
+#EXTINF:-1  group-title="РуТруба" ,Смотри Радио
 https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=Lyt4kEikD8cHDamdFGVVQg&e=2069285075&scheme=https
-#EXTINF:-1 group-title="РуТруба",Смотри Радио SD
+#EXTINF:-1  group-title="РуТруба" ,Смотри Радио SD
 https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=bIUOW4MKn42KB6AoQvpwEQ&e=2066519847&scheme=https
-#EXTINF:-1 group-title="РуТруба",Солнце
+#EXTINF:-1  group-title="РуТруба"  tvg-id="solnce" ,Солнце
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=LG4a6QT_nh_XuwwImSuutA&e=2069285075&scheme=https
-#EXTINF:-1 group-title="РуТруба",Солнце SD
+#EXTINF:-1  group-title="РуТруба" ,Солнце SD
 https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=u44md9mbe5_YqzT_OGl2Sg&e=2066519846&scheme=https
-#EXTINF:-1 group-title="РуТруба",Спас
+#EXTINF:-1  group-title="РуТруба"  tvg-id="spas" ,Спас
 https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=l--mXllI9EM9QsTJy9FQTQ&e=2069285073&scheme=https
-#EXTINF:-1 group-title="РуТруба",Среда
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sreda" ,Среда
 https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=9MaxdUQ2XSdROnGyXREfWA&e=2070450944&scheme=https
-#EXTINF:-1 group-title="РуТруба",Среда
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sreda" ,Среда
 https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=cWc2BhHCLfZNok2eYwfM3Q&e=2069285059&scheme=https
-#EXTINF:-1 group-title="РуТруба",Суббота
+#EXTINF:-1  group-title="РуТруба"  tvg-id="super" ,Суббота
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=TI7V9y5p7---0WLrXaI1FQ&e=2069285051&scheme=https
-#EXTINF:-1 group-title="РуТруба",Суббота! HD
+#EXTINF:-1  group-title="РуТруба" ,Суббота! HD
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=dmUf6BUQzDBTwtQOseAfog&e=2066519758&scheme=https
-#EXTINF:-1 group-title="РуТруба",Сургут 1 FHD
+#EXTINF:-1  group-title="РуТруба" ,Сургут 1 FHD
 https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=Q9gFpvYavscx2jPtUvPFeg&e=2069285056&scheme=https
-#EXTINF:-1 group-title="РуТруба",Сургут 86 FHD
+#EXTINF:-1  group-title="РуТруба" ,Сургут 86 FHD
 https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=9DIQrbeAWqWpa_FR5zV2Yg&e=2069285056&scheme=https
-#EXTINF:-1 group-title="РуТруба",Сургут 86 HD
+#EXTINF:-1  group-title="РуТруба" ,Сургут 86 HD
 https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=rRbhtLKvofXI0NqDJZvoyw&e=2066519776&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТБВ
+#EXTINF:-1  group-title="РуТруба" ,ТБВ
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=1lkHD1NLk-AjiJo20HmZSw&e=2069285068&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТБВ HD
+#EXTINF:-1  group-title="РуТруба" ,ТБВ HD
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=QVPvtJzh4etbV2-GgF8gUw&e=2066519829&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТВ-ИН (Магнитогорск) HD
+#EXTINF:-1  group-title="РуТруба" ,ТВ-ИН (Магнитогорск) HD
 https://bl.rutube.ru/livestream/9feaea12e270b1e23f7c7e65da5652af/index.m3u8?s=sspF8YI_Idh7M3Lbk9TCUQ&e=2066519839&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТВ-ИН Магнитогорск
+#EXTINF:-1  group-title="РуТруба" ,ТВ-ИН Магнитогорск
 https://bl.rutube.ru/livestream/9feaea12e270b1e23f7c7e65da5652af/index.m3u8?s=Y2yonv7EpeVijQqewjHFfA&e=2069285072&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТВ3 HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tv3-ru" ,ТВ3 HD
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=_O6ZRJfK1k_4Vq15m0VHXg&e=2069285050&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТВ3 HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tv3-ru" ,ТВ3 HD
 https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=gD49APNHxfhSogOdsWUC8Q&e=2066519755&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТМК
+#EXTINF:-1  group-title="РуТруба" ,ТМК
 https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=In2aBerp9dHIbhtG8VGM2w&e=2069285064&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТМК HD
+#EXTINF:-1  group-title="РуТруба" ,ТМК HD
 https://bl.rutube.ru/livestream/740503607d216b5d467694a1e8fb39a8/index.m3u8?s=HXdOb9tCHfkHfjFLxpmTJg&e=2066519810&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТНТ HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tnt" ,ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=JTwJq1Qt3nhrVHiVIUvzgA&e=2069285049&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТНТ HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tnt" ,ТНТ HD
 https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=Ksmj0r7a74fBupCV1zhgxQ&e=2066519751&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТНТ4 HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tnt4" ,ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=ASTxN-Kvwh5VgZzRYvkbcQ&e=2069285049&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТНТ4 HD
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tnt4" ,ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=33h8x0WD4pYRIQ77h5Wg_Q&e=2066519752&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТОЛК
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tolk" ,ТОЛК
 https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=W0xdb1uV8JO9IbODJLA-0g&e=2069285066&scheme=https
-#EXTINF:-1 group-title="РуТруба",ТОЛК SD
+#EXTINF:-1  group-title="РуТруба" ,ТОЛК SD
 https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=PlOa9XzzsNf9g1NVUMEy3A&e=2066519817&scheme=https
-#EXTINF:-1 group-title="РуТруба",Таврия
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tavria" ,Таврия
 https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=y4q8b_G07-MM036F26kbAA&e=2069285058&scheme=https
-#EXTINF:-1 group-title="РуТруба",Таврия HD
+#EXTINF:-1  group-title="РуТруба" ,Таврия HD
 https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=3ZIKtMRvonzwbZKjfrVyZA&e=2066519786&scheme=https
-#EXTINF:-1 group-title="РуТруба",Тайна
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tayna" ,Тайна
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=rtFSQpmrNmsoB1YnCB1sXA&e=2069285053&scheme=https
-#EXTINF:-1 group-title="РуТруба",Тайна FD
+#EXTINF:-1  group-title="РуТруба" ,Тайна FD
 https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=V1-tEw5Cpojw6jhxNF9IMw&e=2066519764&scheme=https
-#EXTINF:-1 group-title="РуТруба",Царьград
+#EXTINF:-1  group-title="РуТруба" ,Царьград
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=_kPgOqYBX8vfKBAHbu7Wcg&e=2069285067&scheme=https
-#EXTINF:-1 group-title="РуТруба",Царьград HD
+#EXTINF:-1  group-title="РуТруба" ,Царьград HD
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=ISWC8uuBJlLIBfHVSaOalw&e=2066519828&scheme=https
-#EXTINF:-1 group-title="РуТруба",Ю
+#EXTINF:-1  group-title="РуТруба"  tvg-id="yu" ,Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=x45t0M4xuuiCNqRQBW70Jg&e=2069285051&scheme=https
-#EXTINF:-1 group-title="РуТруба",Ю SD
+#EXTINF:-1  group-title="РуТруба" ,Ю SD
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
-#EXTINF:-1 group-title="РуТруба",ЮРГАН HD
+#EXTINF:-1  group-title="РуТруба" ,ЮРГАН HD
 https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=jcJnHa6IFZzQelEk5rw-gg&e=2066519824&scheme=https
-#EXTINF:-1 group-title="РуТруба",ЮУРГУ-ТВ
+#EXTINF:-1  group-title="РуТруба" ,ЮУРГУ-ТВ
 https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=C7kUrLZ8q_kexlNng8rP1A&e=2069285057&scheme=https
-#EXTINF:-1 group-title="РуТруба",ЮУРГУ-ТВ (ЧЕЛЯБИНСК) SD
+#EXTINF:-1  group-title="РуТруба" ,ЮУРГУ-ТВ (ЧЕЛЯБИНСК) SD
 https://bl.rutube.ru/livestream/f6160b4e48cb32b4d5438c66c83b69dc/index.m3u8?s=gPZFDQ8VwjnUGfaGvJe5yQ&e=2066519779&scheme=https
-#EXTINF:-1 group-title="РуТруба",Юрган
+#EXTINF:-1  group-title="РуТруба"  tvg-id="yurgan" ,Юрган
 https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=5bLrupPu5GHYQQsHkq9F5A&e=2069285067&scheme=https
-#EXTINF:-1 group-title="РуТруба",Ямал-Медиа
+#EXTINF:-1  group-title="РуТруба" ,Ямал-Медиа
 https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=KNHLGCh7vuOgvWUYkyKJ6w&e=2069285069&scheme=https
-#EXTINF:-1 group-title="РуТруба",Ямал-Регион HD
+#EXTINF:-1  group-title="РуТруба" ,Ямал-Регион HD
 https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=ciknwt7svQOD0ipTBCBSQA&e=2066519831&scheme=https
-#EXTINF:-1 group-title="Сборник",Беларусь 1 
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus1" ,Беларусь 1 
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 1 HD 
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus1" ,Беларусь 1 HD 
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1HD.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 2 
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus2" ,Беларусь 2 
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 2 HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus2" ,Беларусь 2 HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2HD.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 3 
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus3" ,Беларусь 3 
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 3 HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus3" ,Беларусь 3 HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3HD.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 5 
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus5" ,Беларусь 5 
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 5 HD 
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus5" ,Беларусь 5 HD 
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5HD.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 24 
+#EXTINF:-1  group-title="Сборник"  tvg-id="belarus24" ,Беларусь 24 
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24.m3u8
-#EXTINF:-1 group-title="Сборник",Беларусь 24 HD
+#EXTINF:-1  group-title="Сборник" ,Беларусь 24 HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 group-title="Сборник",Первый информационный
+#EXTINF:-1  group-title="Сборник"  tvg-id="pervy-info-by" ,Первый информационный
 http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNY.m3u8
-#EXTINF:-1 group-title="Сборник",Первый информационный HD 
+#EXTINF:-1  group-title="Сборник" ,Первый информационный HD 
 http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
-#EXTINF:-1 group-title="Сборник",СТВ HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="stv-by" ,СТВ HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_CTBHD720.m3u8
-#EXTINF:-1 group-title="Сборник",D-TV6
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-#EXTINF:-1 group-title="Сборник",Сборник HD
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 group-title="Сборник",Первый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="pervy" ,Первый канал HD
 http://dmitry-tv.ddns.net/hls/T2/CH_1TVHD.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал (+9)
+#EXTINF:-1  group-title="Сборник"  tvg-id="pervy-pl9" ,Первый канал (+9)
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал (Евразия)
+#EXTINF:-1  group-title="Сборник"  tvg-id="pervy-kanal-eurasia-kz" ,Первый канал (Евразия)
 http://dmitry-tv.ddns.net/hls/T2/CH_1TV_EVRAZIA.m3u8
-#EXTINF:-1 group-title="Сборник",Первый канал (СНГ)
+#EXTINF:-1  group-title="Сборник"  tvg-id="pervy-kanal-csi" ,Первый канал (СНГ)
 http://dmitry-tv.ddns.net/hls/T2/CH_1TV_SNG.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="rossia1" ,Россия 1 HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 HD (+2)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 HD (+4)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 HD (+6)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 HD (+7)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 HD (+8)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 (+9)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 1 HD (+9)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="ntv" ,НТВ HD
 http://dmitry-tv.ddns.net/hls/T2/CH_NTVHD.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ МИР
+#EXTINF:-1  group-title="Сборник" ,НТВ МИР
 http://dmitry-tv.ddns.net/hls/T2/CH_NTV_MIR.m3u8
-#EXTINF:-1 group-title="Сборник",Пятый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF:-1 group-title="Сборник",Пятый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="Сборник",Пятый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF:-1 group-title="Сборник",Пятый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1 group-title="Сборник",Пятый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF:-1 group-title="Сборник",Пятый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK-1.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К
+#EXTINF:-1  group-title="Сборник"  tvg-id="kultura" ,Россия К
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К HD
+#EXTINF:-1  group-title="Сборник" ,Россия К HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К HD (+2)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD_2.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К HD (+4)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD_4.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_6.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
-#EXTINF:-1 group-title="Сборник",Россия К HD (+7)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD_7.m3u8
-#EXTINF:-1 group-title="Сборник",PLANETA RTR (EURO)
+#EXTINF:-1  group-title="Сборник" ,PLANETA RTR (EURO)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
-#EXTINF:-1 group-title="Сборник",PLANETA RTR HD720 (EURO)
+#EXTINF:-1  group-title="Сборник" ,PLANETA RTR HD720 (EURO)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_EURO.m3u8
-#EXTINF:-1 group-title="Сборник",PLANETA RTR (USA)
+#EXTINF:-1  group-title="Сборник" ,PLANETA RTR (USA)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
-#EXTINF:-1 group-title="Сборник",PLANETA RTR HD720 (USA)
+#EXTINF:-1  group-title="Сборник" ,PLANETA RTR HD720 (USA)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_USA.m3u8
-#EXTINF:-1 group-title="Сборник",Россия РТР (ASIA)
+#EXTINF:-1  group-title="Сборник" ,Россия РТР (ASIA)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTR_ASIA.m3u8
-#EXTINF:-1 group-title="Сборник",Россия РТР HD720 (ASIA)
+#EXTINF:-1  group-title="Сборник" ,Россия РТР HD720 (ASIA)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_ASIA.m3u8
-#EXTINF:-1 group-title="Сборник",Россия РТР (СНГ)
+#EXTINF:-1  group-title="Сборник" ,Россия РТР (СНГ)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTR_SNG.m3u8
-#EXTINF:-1 group-title="Сборник",Россия РТР HD720 (СНГ)
+#EXTINF:-1  group-title="Сборник" ,Россия РТР HD720 (СНГ)
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTRHD720_SNG.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 24 HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="rossia-24" ,Россия 24 HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 24 (+2)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 24 (+3)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 24 (+6)
-http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_6.m3u8
-#EXTINF:-1 group-title="Сборник",Россия 24 International
+#EXTINF:-1  group-title="Сборник" ,Россия 24 International
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
-#EXTINF:-1 group-title="Сборник",Карусель (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL-1.m3u8
-#EXTINF:-1 group-title="Сборник",Карусель
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="Сборник",Карусель (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF:-1 group-title="Сборник",Карусель (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF:-1 group-title="Сборник",Карусель (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF:-1 group-title="Сборник",Карусель (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF:-1 group-title="Сборник",Карусель (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF:-1 group-title="Сборник",ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="Сборник",ОТР (+4)
-http://dmitry-tv.ddns.net/hls/T2/CH_OTR_4.m3u8
-#EXTINF:-1 group-title="Сборник",ТВЦ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF:-1 group-title="Сборник",ТВЦ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 group-title="Сборник",ТВЦ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1 group-title="Сборник",ТВЦ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1 group-title="Сборник",ТВЦ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF:-1 group-title="Сборник",ТВЦ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF:-1 group-title="Сборник",ТВЦ International
+#EXTINF:-1  group-title="Сборник" ,ТВЦ International
 http://dmitry-tv.ddns.net/hls/T2/CH_TVC_INTERNATIONAL.m3u8
-#EXTINF:-1 group-title="Сборник",РЕН ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF:-1 group-title="Сборник",РЕН ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 group-title="Сборник",РЕН ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
-#EXTINF:-1 group-title="Сборник",РЕН ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF:-1 group-title="Сборник",РЕН ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF:-1 group-title="Сборник",РЕН ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF:-1 group-title="Сборник",РЕН ТВ International
+#EXTINF:-1  group-title="Сборник"  tvg-id="rentv-int" ,РЕН ТВ International
 http://dmitry-tv.ddns.net/hls/T2/CH_RENTV_INTERNATIONAL.m3u8
-#EXTINF:-1 group-title="Сборник",СПАС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS-1.m3u8
-#EXTINF:-1 group-title="Сборник",СПАС
+#EXTINF:-1  group-title="Сборник"  tvg-id="spas" ,СПАС
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 group-title="Сборник",СПАС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF:-1 group-title="Сборник",СПАС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_4.m3u8
-#EXTINF:-1 group-title="Сборник",СПАС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_6.m3u8
-#EXTINF:-1 group-title="Сборник",СПАС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_7.m3u8
-#EXTINF:-1 group-title="Сборник",СТС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS-1.m3u8
-#EXTINF:-1 group-title="Сборник",СТС
+#EXTINF:-1  group-title="Сборник"  tvg-id="sts" ,СТС
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="Сборник",СТС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF:-1 group-title="Сборник",СТС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF:-1 group-title="Сборник",СТС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF:-1 group-title="Сборник",СТС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF:-1 group-title="Сборник",Домашний (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF:-1 group-title="Сборник",Домашний
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="Сборник",Домашний (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF:-1 group-title="Сборник",Домашний (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF:-1 group-title="Сборник",Домашний (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF:-1 group-title="Сборник",Домашний (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF:-1 group-title="Сборник",ТВ3 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF:-1 group-title="Сборник",ТВ3
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF:-1 group-title="Сборник",ТВ3 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF:-1 group-title="Сборник",ТВ3 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF:-1 group-title="Сборник",ТВ3 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF:-1 group-title="Сборник",ТВ3 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF:-1 group-title="Сборник",Пятница! (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
-#EXTINF:-1 group-title="Сборник",Пятница!
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="Сборник",Пятница! (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
-#EXTINF:-1 group-title="Сборник",Пятница! (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF:-1 group-title="Сборник",Пятница! (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF:-1 group-title="Сборник",Пятница! (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF:-1 group-title="Сборник",Звезда (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF:-1 group-title="Сборник",Звезда
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="Сборник",Звезда HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="zvezda" ,Звезда HD
 http://dmitry-tv.ddns.net/hls/T2/CH_ZVEZDAHD.m3u8
-#EXTINF:-1 group-title="Сборник",Звезда (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF:-1 group-title="Сборник",Звезда (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF:-1 group-title="Сборник",Звезда (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF:-1 group-title="Сборник",Звезда (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF:-1 group-title="Сборник",МИР (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF:-1 group-title="Сборник",МИР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 group-title="Сборник",МИР HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="mir" ,МИР HD
 http://dmitry-tv.ddns.net/hls/T2/CH_MIRHD.m3u8
-#EXTINF:-1 group-title="Сборник",МИР (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF:-1 group-title="Сборник",МИР (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF:-1 group-title="Сборник",МИР (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF:-1 group-title="Сборник",МИР (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF:-1 group-title="Сборник",МИР (Казахстан)
+#EXTINF:-1  group-title="Сборник" ,МИР (Казахстан)
 http://dmitry-tv.ddns.net/hls/T2/CH_MIR_KZN.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT-1.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ HD (Казахстан)
+#EXTINF:-1  group-title="Сборник" ,ТНТ HD (Казахстан)
 http://dmitry-tv.ddns.net/hls/T2/CH_TNTHD_KZN.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_4.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF:-1 group-title="Сборник",МУЗ ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF:-1 group-title="Сборник",МУЗ ТВ
+#EXTINF:-1  group-title="Сборник"  tvg-id="muztv" ,МУЗ ТВ
 http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="Сборник",МУЗ ТВ HD [uz]
+#EXTINF:-1  group-title="Сборник" ,МУЗ ТВ HD [uz]
 http://dmitry-tv.ddns.net/hls/T2/CH_MUZTVHD_UZ.m3u8
-#EXTINF:-1 group-title="Сборник",МУЗ ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF:-1 group-title="Сборник",МУЗ ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF:-1 group-title="Сборник",МУЗ ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF:-1 group-title="Сборник",МУЗ ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF:-1 group-title="Сборник",Че! (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE-1.m3u8
-#EXTINF:-1 group-title="Сборник",Че!
+#EXTINF:-1  group-title="Сборник"  tvg-id="che" ,Че!
 http://dmitry-tv.ddns.net/hls/zabava/CH_CHE.m3u8
-#EXTINF:-1 group-title="Сборник",Че! (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_2.m3u8
-#EXTINF:-1 group-title="Сборник",Че! (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_4.m3u8
-#EXTINF:-1 group-title="Сборник",Че! (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_6.m3u8
-#EXTINF:-1 group-title="Сборник",Че! (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_7.m3u8
-#EXTINF:-1 group-title="Сборник",Ю (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U-1.m3u8
-#EXTINF:-1 group-title="Сборник",Ю
-http://dmitry-tv.ddns.net/hls/zabava/CH_U.m3u8
-#EXTINF:-1 group-title="Сборник",Ю (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_2.m3u8
-#EXTINF:-1 group-title="Сборник",Ю (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_4.m3u8
-#EXTINF:-1 group-title="Сборник",Ю (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_6.m3u8
-#EXTINF:-1 group-title="Сборник",Ю (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_7.m3u8
-#EXTINF:-1 group-title="Сборник",СТАРТ ТРИУМФ
+#EXTINF:-1  group-title="Сборник"  tvg-id="start-triumf" ,СТАРТ ТРИУМФ
 http://dmitry-tv.ddns.net/hls/CH_START_TRIUMF.m3u8
-#EXTINF:-1 group-title="Сборник",СТАРТ ТРИУМФ HD720
+#EXTINF:-1  group-title="Сборник" ,СТАРТ ТРИУМФ HD720
 http://dmitry-tv.ddns.net/hls/CH_START_TRIUMFHD720.m3u8
-#EXTINF:-1 group-title="Сборник",VIASAT SPORT HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="viasat-sport" ,VIASAT SPORT HD
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_SPORTHD.m3u8
-#EXTINF:-1 group-title="Сборник",TRACE SPORT STARS
+#EXTINF:-1  group-title="Сборник"  tvg-id="trace-sport-stars" ,TRACE SPORT STARS
 http://dmitry-tv.ddns.net/hls/CH_TRACE_SPORT_STARS.m3u8
-#EXTINF:-1 group-title="Сборник",SETANTA SPORTS 1 HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="setanta-sports" ,SETANTA SPORTS 1 HD
 http://dmitry-tv.ddns.net/hls/CH_SETANTA_SPORTS1HD.m3u8
-#EXTINF:-1 group-title="Сборник",SETANTA SPORTS 2 HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="setanta-sports-plus" ,SETANTA SPORTS 2 HD
 http://dmitry-tv.ddns.net/hls/CH_SETANTA_SPORTS2HD.m3u8
-#EXTINF:-1 group-title="Сборник",Точка отрыва
+#EXTINF:-1  group-title="Сборник"  tvg-id="tochka-otryva" ,Точка отрыва
 http://dmitry-tv.ddns.net/hls/CH_TOCHKA_OTRYVA.m3u8
-#EXTINF:-1 group-title="Сборник",Sport+ HD
+#EXTINF:-1  group-title="Сборник" ,Sport+ HD
 http://dmitry-tv.ddns.net/hls/CH_SPORT_PLUSHD.m3u8
-#EXTINF:-1 group-title="Сборник",АВТО 24
+#EXTINF:-1  group-title="Сборник"  tvg-id="avto24" ,АВТО 24
 http://dmitry-tv.ddns.net/hls/CH_AVTO24.m3u8
-#EXTINF:-1 group-title="Сборник",FUEL TV HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="fuel-tv-hd" ,FUEL TV HD
 http://dmitry-tv.ddns.net/hls/CH_FUELTVHD.m3u8
-#EXTINF:-1 group-title="Сборник",ДРАЙВ
+#EXTINF:-1  group-title="Сборник"  tvg-id="drive" ,ДРАЙВ
 http://dmitry-tv.ddns.net/hls/CH_DRIVE.m3u8
-#EXTINF:-1 group-title="Сборник",EUROSPORT 1
+#EXTINF:-1  group-title="Сборник"  tvg-id="eurosport1" ,EUROSPORT 1
 http://dmitry-tv.ddns.net/hls/CH_EUROSPORT1.m3u8
-#EXTINF:-1 group-title="Сборник",СТС Love (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE-1.m3u8
-#EXTINF:-1 group-title="Сборник",СТС Love
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF:-1 group-title="Сборник",СТС Love (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF:-1 group-title="Сборник",СТС Love (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ ПРАВО
+#EXTINF:-1  group-title="Сборник"  tvg-id="ntv-pravo" ,НТВ ПРАВО
 http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ СЕРИАЛ
+#EXTINF:-1  group-title="Сборник"  tvg-id="ntv-serial" ,НТВ СЕРИАЛ
 http://dmitry-tv.ddns.net/hls/CH_NTVSERIAL.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ СТИЛЬ
+#EXTINF:-1  group-title="Сборник"  tvg-id="ntv-style" ,НТВ СТИЛЬ
 http://dmitry-tv.ddns.net/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 group-title="Сборник",НТВ ХИТ
+#EXTINF:-1  group-title="Сборник"  tvg-id="ntv-xit" ,НТВ ХИТ
 http://dmitry-tv.ddns.net/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ Кино и сериалы
+#EXTINF:-1  group-title="Сборник" ,СМОТРИМ Кино и сериалы
 http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ Кино и сериалы HD
+#EXTINF:-1  group-title="Сборник" ,СМОТРИМ Кино и сериалы HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% ЛЮБОВЬ
+#EXTINF:-1  group-title="Сборник"  tvg-id="smotrim-100-lubov" ,СМОТРИМ 100% ЛЮБОВЬ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOV.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% ЛЮБОВЬ HD
+#EXTINF:-1  group-title="Сборник" ,СМОТРИМ 100% ЛЮБОВЬ HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOVHD.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% МУЖСКОЕ
+#EXTINF:-1  group-title="Сборник"  tvg-id="smotrim-100-muzhskoe" ,СМОТРИМ 100% МУЖСКОЕ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOE.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% МУЖСКОЕ HD
+#EXTINF:-1  group-title="Сборник" ,СМОТРИМ 100% МУЖСКОЕ HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOEHD.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% КЛАССИКА
+#EXTINF:-1  group-title="Сборник"  tvg-id="smotrim-100-klassika" ,СМОТРИМ 100% КЛАССИКА
 http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICA.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% КЛАССИКА HD
+#EXTINF:-1  group-title="Сборник" ,СМОТРИМ 100% КЛАССИКА HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICAHD.m3u8
-#EXTINF:-1 group-title="Сборник",КИНО ТВ
+#EXTINF:-1  group-title="Сборник"  tvg-id="kino-tv" ,КИНО ТВ
 http://dmitry-tv.ddns.net/hls/CH_KINOTV.m3u8
-#EXTINF:-1 group-title="Сборник",ЕВРОКИНО
-http://dmitry-tv.ddns.net/hls/CH_EVROKINO.m3u8
-#EXTINF:-1 group-title="Сборник",НСТ
+#EXTINF:-1  group-title="Сборник"  tvg-id="nst" ,НСТ
 http://dmitry-tv.ddns.net/hls/CH_NST.m3u8
-#EXTINF:-1 group-title="Сборник",Русский роман
+#EXTINF:-1  group-title="Сборник"  tvg-id="russky-roman" ,Русский роман
 http://dmitry-tv.ddns.net/hls/CH_RUSSKIY_ROMAN.m3u8
-#EXTINF:-1 group-title="Сборник",TV1000 HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="tv1000" ,TV1000 HD
 http://dmitry-tv.ddns.net/hls/CH_TV1000HD.m3u8
-#EXTINF:-1 group-title="Сборник",TV1000 ACTION HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="tv1000-action" ,TV1000 ACTION HD
 http://dmitry-tv.ddns.net/hls/CH_TV1000ACTIONHD.m3u8
-#EXTINF:-1 group-title="Сборник",TV1000 РУССКОЕ КИНО HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="tv1000-russkoe-kino" ,TV1000 РУССКОЕ КИНО HD
 http://dmitry-tv.ddns.net/hls/CH_TV1000RUSSKOEKINOHD.m3u8
-#EXTINF:-1 group-title="Сборник",ДОМ КИНО
+#EXTINF:-1  group-title="Сборник"  tvg-id="domkino" ,ДОМ КИНО
 http://dmitry-tv.ddns.net/hls/CH_DOMKINO.m3u8
-#EXTINF:-1 group-title="Сборник",ДОМ КИНО ПРЕМИУМ
+#EXTINF:-1  group-title="Сборник"  tvg-id="domkino-premium" ,ДОМ КИНО ПРЕМИУМ
 http://dmitry-tv.ddns.net/hls/CH_DOMKINOPREMIUM.m3u8
-#EXTINF:-1 group-title="Сборник",Иллюзион+
+#EXTINF:-1  group-title="Сборник"  tvg-id="illuzion-plus" ,Иллюзион+
 http://dmitry-tv.ddns.net/hls/CH_ILLUZION_PLUS.m3u8
-#EXTINF:-1 group-title="Сборник",AMEDIA PREMIUM HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="amedia-premium" ,AMEDIA PREMIUM HD
 http://dmitry-tv.ddns.net/hls/CH_AMEDIA_PREMIUMHD.m3u8
-#EXTINF:-1 group-title="Сборник",КИНОПОКАЗ
+#EXTINF:-1  group-title="Сборник"  tvg-id="kinopokaz" ,КИНОПОКАЗ
 http://dmitry-tv.ddns.net/hls/CH_KINOPOKAZ.m3u8
-#EXTINF:-1 group-title="Сборник",ДОРАМА
+#EXTINF:-1  group-title="Сборник"  tvg-id="dorama" ,ДОРАМА
 http://dmitry-tv.ddns.net/hls/CH_DORAMA.m3u8
-#EXTINF:-1 group-title="Сборник",HOLLYWOOD
+#EXTINF:-1  group-title="Сборник"  tvg-id="hollywood" ,HOLLYWOOD
 http://dmitry-tv.ddns.net/hls/CH_HOLLYWOOD.m3u8
-#EXTINF:-1 group-title="Сборник",BOLLYWOOD
+#EXTINF:-1  group-title="Сборник"  tvg-id="bollywood-hd" ,BOLLYWOOD
 http://dmitry-tv.ddns.net/hls/CH_BOLLYWOOD.m3u8
-#EXTINF:-1 group-title="Сборник",МОСФИЛЬМ ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTINF:-1  group-title="Сборник" ,МОСФИЛЬМ ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://dmitry-tv.ddns.net/hls/CH_MOSFILM.m3u8
-#EXTINF:-1 group-title="Сборник",Победа
+#EXTINF:-1  group-title="Сборник"  tvg-id="pobeda" ,Победа
 http://dmitry-tv.ddns.net/hls/CH_POBEDA.m3u8
-#EXTINF:-1 group-title="Сборник",Русский иллюзион
+#EXTINF:-1  group-title="Сборник"  tvg-id="russky-illuzion" ,Русский иллюзион
 http://dmitry-tv.ddns.net/hls/CH_RUSSKIY_ILLUZION.m3u8
-#EXTINF:-1 group-title="Сборник",РЕТРО
+#EXTINF:-1  group-title="Сборник"  tvg-id="retro-tv" ,РЕТРО
 http://dmitry-tv.ddns.net/hls/CH_RETRO.m3u8
-#EXTINF:-1 group-title="Сборник",CINEMA
+#EXTINF:-1  group-title="Сборник"  tvg-id="cinema-ru" ,CINEMA
 http://dmitry-tv.ddns.net/hls/CH_CINEMA.m3u8
-#EXTINF:-1 group-title="Сборник",2x2 (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2-1.m3u8
-#EXTINF:-1 group-title="Сборник",2x2
+#EXTINF:-1  group-title="Сборник"  tvg-id="2na2" ,2x2
 http://dmitry-tv.ddns.net/hls/zabava/CH_2X2.m3u8
-#EXTINF:-1 group-title="Сборник",2x2 (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_2.m3u8
-#EXTINF:-1 group-title="Сборник",2x2 (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_4.m3u8
-#EXTINF:-1 group-title="Сборник",2x2 (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_6.m3u8
-#EXTINF:-1 group-title="Сборник",2x2 (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_7.m3u8
-#EXTINF:-1 group-title="Сборник",Суббота! (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA-1.m3u8
-#EXTINF:-1 group-title="Сборник",Суббота!
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF:-1 group-title="Сборник",Суббота! (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_2.m3u8
-#EXTINF:-1 group-title="Сборник",Суббота! (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_4.m3u8
-#EXTINF:-1 group-title="Сборник",Суббота! (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_6.m3u8
-#EXTINF:-1 group-title="Сборник",Суббота! (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_7.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ4 (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4-1.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ4
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ4 (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_2.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ4 (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_4.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ4 (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_6.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ4 (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_7.m3u8
-#EXTINF:-1 group-title="Сборник",8 канал
+#EXTINF:-1  group-title="Сборник"  tvg-id="8kanal-ru" ,8 канал
 http://dmitry-tv.ddns.net/hls/CH_8CHANNEL.m3u8
-#EXTINF:-1 group-title="Сборник",8 канал HD
+#EXTINF:-1  group-title="Сборник" ,8 канал HD
 http://dmitry-tv.ddns.net/hls/CH_8CHANNELHD.m3u8
-#EXTINF:-1 group-title="Сборник",Просвещение
+#EXTINF:-1  group-title="Сборник"  tvg-id="prosveschenie" ,Просвещение
 http://dmitry-tv.ddns.net/hls/CH_PROSVESHENIE.m3u8
-#EXTINF:-1 group-title="Сборник",Надежда HD720
+#EXTINF:-1  group-title="Сборник" ,Надежда HD720
 http://dmitry-tv.ddns.net/hls/CH_NADEZHDAHD720.m3u8
-#EXTINF:-1 group-title="Сборник",7tv
+#EXTINF:-1  group-title="Сборник" ,7tv
 http://dmitry-tv.ddns.net/hls/CH_7TV.m3u8
-#EXTINF:-1 group-title="Сборник",LIFE TV [RUS]
+#EXTINF:-1  group-title="Сборник" ,LIFE TV [RUS]
 http://dmitry-tv.ddns.net/hls/CH_LIFETV_RUS.m3u8
-#EXTINF:-1 group-title="Сборник",LIFE TV [RUS/EST]
+#EXTINF:-1  group-title="Сборник" ,LIFE TV [RUS/EST]
 http://dmitry-tv.ddns.net/hls/CH_LIFETV_RUSEST.m3u8
-#EXTINF:-1 group-title="Сборник",Твое ТВ HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="tvoyo-tv-hd" ,Твое ТВ HD
 http://dmitry-tv.ddns.net/hls/CH_TVOETVHD.m3u8
-#EXTINF:-1 group-title="Сборник",360°
+#EXTINF:-1  group-title="Сборник" ,360°
 http://dmitry-tv.ddns.net/hls/CH_360TV.m3u8
-#EXTINF:-1 group-title="Сборник",360° HD
+#EXTINF:-1  group-title="Сборник" ,360° HD
 http://dmitry-tv.ddns.net/hls/CH_360TVHD.m3u8
-#EXTINF:-1 group-title="Сборник",Калейдоскоп ТВ
+#EXTINF:-1  group-title="Сборник"  tvg-id="kaleydoskop-tv" ,Калейдоскоп ТВ
 http://dmitry-tv.ddns.net/hls/CH_KALEYDOSKOPTV.m3u8
-#EXTINF:-1 group-title="Сборник",TVM Channel
+#EXTINF:-1  group-title="Сборник"  tvg-id="tvmchannel" ,TVM Channel
 http://dmitry-tv.ddns.net/hls/CH_TVMCHANNEL.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% ПРАЗДНИК
+#EXTINF:-1  group-title="Сборник"  tvg-id="smotrim-100-prazdnik" ,СМОТРИМ 100% ПРАЗДНИК
 http://dmitry-tv.ddns.net/hls/smotrim/CH_PRAZDNIK.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% ПРАЗДНИК HD
+#EXTINF:-1  group-title="Сборник" ,СМОТРИМ 100% ПРАЗДНИК HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_PRAZDNIKHD.m3u8
-#EXTINF:-1 group-title="Сборник",Живи активно
+#EXTINF:-1  group-title="Сборник"  tvg-id="zhivi-aktivno" ,Живи активно
 http://dmitry-tv.ddns.net/hls/CH_ZHIVI_AKTIVNO.m3u8
-#EXTINF:-1 group-title="Сборник",ТОЧКА РФ HD
+#EXTINF:-1  group-title="Сборник" ,ТОЧКА РФ HD
 http://dmitry-tv.ddns.net/hls/CH_TOCHKA_RFHD.m3u8
-#EXTINF:-1 group-title="Сборник",Перец International
+#EXTINF:-1  group-title="Сборник"  tvg-id="perec-int" ,Перец International
 http://dmitry-tv.ddns.net/hls/CH_PERETZ_INTERNATIONAL.m3u8
-#EXTINF:-1 group-title="Сборник",Сарафан
+#EXTINF:-1  group-title="Сборник"  tvg-id="sarafan" ,Сарафан
 http://dmitry-tv.ddns.net/hls/CH_SARAFAN.m3u8
-#EXTINF:-1 group-title="Сборник",Солнце (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY-1.m3u8
-#EXTINF:-1 group-title="Сборник",Солнце
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY.m3u8
-#EXTINF:-1 group-title="Сборник",Солнце (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_2.m3u8
-#EXTINF:-1 group-title="Сборник",Солнце (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_4.m3u8
-#EXTINF:-1 group-title="Сборник",Солнце (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_6.m3u8
-#EXTINF:-1 group-title="Сборник",Солнце (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
-#EXTINF:-1 group-title="Сборник",Радость моя
+#EXTINF:-1  group-title="Сборник"  tvg-id="radost-moya" ,Радость моя
 http://dmitry-tv.ddns.net/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% ДЕТСКОЕ
+#EXTINF:-1  group-title="Сборник"  tvg-id="smotrim-100-detskoe" ,СМОТРИМ 100% ДЕТСКОЕ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_DETSKOE.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% ДЕТСКОЕ HD
+#EXTINF:-1  group-title="Сборник" ,СМОТРИМ 100% ДЕТСКОЕ HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_DETSKOEHD.m3u8
-#EXTINF:-1 group-title="Сборник",NICKELODEON HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="nickelodeon-ru" ,NICKELODEON HD
 http://dmitry-tv.ddns.net/hls/CH_NICKELODEONHD.m3u8
-#EXTINF:-1 group-title="Сборник",NickToons
+#EXTINF:-1  group-title="Сборник"  tvg-id="nicktoons" ,NickToons
 http://dmitry-tv.ddns.net/hls/CH_NICKTOONS.m3u8
-#EXTINF:-1 group-title="Сборник",Nick Jr
+#EXTINF:-1  group-title="Сборник"  tvg-id="nick-jr" ,Nick Jr
 http://dmitry-tv.ddns.net/hls/CH_NICKJR.m3u8
-#EXTINF:-1 group-title="Сборник",МАМА
+#EXTINF:-1  group-title="Сборник"  tvg-id="mama" ,МАМА
 http://dmitry-tv.ddns.net/hls/CH_MAMA.m3u8
-#EXTINF:-1 group-title="Сборник",В гостях у сказки HD
+#EXTINF:-1  group-title="Сборник" ,В гостях у сказки HD
 http://dmitry-tv.ddns.net/hls/CH_VGOSTYAHUSKAZKIHD.m3u8
-#EXTINF:-1 group-title="Сборник",КАПИТАН ФАНТАСТИКА
+#EXTINF:-1  group-title="Сборник"  tvg-id="ginger-hd" ,КАПИТАН ФАНТАСТИКА
 http://dmitry-tv.ddns.net/hls/CH_KAPITAN_FANTASTIKA.m3u8
-#EXTINF:-1 group-title="Сборник",Рыжий
+#EXTINF:-1  group-title="Сборник"  tvg-id="ryzhy" ,Рыжий
 http://dmitry-tv.ddns.net/hls/CH_RYZHIY.m3u8
-#EXTINF:-1 group-title="Сборник",Tiji
+#EXTINF:-1  group-title="Сборник"  tvg-id="tiji" ,Tiji
 http://dmitry-tv.ddns.net/hls/CH_TIJI.m3u8
-#EXTINF:-1 group-title="Сборник",Gulli GIRL
+#EXTINF:-1  group-title="Сборник"  tvg-id="gulli-girl" ,Gulli GIRL
 http://dmitry-tv.ddns.net/hls/CH_GULLI_GIRL.m3u8
-#EXTINF:-1 group-title="Сборник",МУЛЬТ
+#EXTINF:-1  group-title="Сборник"  tvg-id="mult" ,МУЛЬТ
 http://dmitry-tv.ddns.net/hls/CH_MULT.m3u8
-#EXTINF:-1 group-title="Сборник",Da Vinci
+#EXTINF:-1  group-title="Сборник"  tvg-id="da-vinci" ,Da Vinci
 http://dmitry-tv.ddns.net/hls/CH_DAVINCI.m3u8
-#EXTINF:-1 group-title="Сборник",О!
+#EXTINF:-1  group-title="Сборник"  tvg-id="o_" ,О!
 http://dmitry-tv.ddns.net/hls/CH_O.m3u8
-#EXTINF:-1 group-title="Сборник",Мультиландия
+#EXTINF:-1  group-title="Сборник"  tvg-id="multimania" ,Мультиландия
 http://dmitry-tv.ddns.net/hls/CH_MULTILANDIA.m3u8
-#EXTINF:-1 group-title="Сборник",В гостях у сказки
+#EXTINF:-1  group-title="Сборник"  tvg-id="v-gostiax-u-skazki" ,В гостях у сказки
 http://dmitry-tv.ddns.net/hls/CH_VGOSTYAHUSKAZKI.m3u8
-#EXTINF:-1 group-title="Сборник",Детский
+#EXTINF:-1  group-title="Сборник"  tvg-id="detsky" ,Детский
 http://dmitry-tv.ddns.net/hls/CH_DETSKIY.m3u8
-#EXTINF:-1 group-title="Сборник",Duck tv HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="ducktv" ,Duck tv HD
 http://dmitry-tv.ddns.net/hls/CH_DUCKTVHD.m3u8
-#EXTINF:-1 group-title="Сборник",ПРОДВИЖЕНИЕ
+#EXTINF:-1  group-title="Сборник"  tvg-id="prodvizhenie" ,ПРОДВИЖЕНИЕ
 http://dmitry-tv.ddns.net/hls/CH_PRODVIZHENIE.m3u8
-#EXTINF:-1 group-title="Сборник",СОЮЗ HD
+#EXTINF:-1  group-title="Сборник" ,СОЮЗ HD
 http://dmitry-tv.ddns.net/hls/CH_SOYUZHD.m3u8
-#EXTINF:-1 group-title="Сборник",НЕИЗВЕСТНАЯ РОССИЯ
+#EXTINF:-1  group-title="Сборник"  tvg-id="neizvestnaya-rosia" ,НЕИЗВЕСТНАЯ РОССИЯ
 http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIA.m3u8
-#EXTINF:-1 group-title="Сборник",НЕИЗВЕСТНАЯ РОССИЯ HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="neizvestnaya-rosia" ,НЕИЗВЕСТНАЯ РОССИЯ HD
 http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIAHD.m3u8
-#EXTINF:-1 group-title="Сборник",Наука 2.0
+#EXTINF:-1  group-title="Сборник"  tvg-id="nauka-20" ,Наука 2.0
 http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
-#EXTINF:-1 group-title="Сборник",Моя планета
+#EXTINF:-1  group-title="Сборник"  tvg-id="moya-planeta" ,Моя планета
 http://dmitry-tv.ddns.net/hls/CH_MOYA_PLANETA.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% ФАКТЫ
+#EXTINF:-1  group-title="Сборник"  tvg-id="smotrim-100-fakty" ,СМОТРИМ 100% ФАКТЫ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTY.m3u8
-#EXTINF:-1 group-title="Сборник",СМОТРИМ 100% ФАКТЫ HD
+#EXTINF:-1  group-title="Сборник" ,СМОТРИМ 100% ФАКТЫ HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTYHD.m3u8
-#EXTINF:-1 group-title="Сборник",Охота и рыбалка
+#EXTINF:-1  group-title="Сборник"  tvg-id="oxota-i-rybalka" ,Охота и рыбалка
 http://dmitry-tv.ddns.net/hls/CH_OHOTAIRYBALKA.m3u8
-#EXTINF:-1 group-title="Сборник",VIASAT EXPLORE HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="viasat-explore" ,VIASAT EXPLORE HD
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_EXPLOREHD.m3u8
-#EXTINF:-1 group-title="Сборник",VIASAT HISTORY HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="viasat-history" ,VIASAT HISTORY HD
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_HISTORYHD.m3u8
-#EXTINF:-1 group-title="Сборник",VIASAT NATURE HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="viasat-nature" ,VIASAT NATURE HD
 http://dmitry-tv.ddns.net/hls/CH_VIASAT_NATUREHD.m3u8
-#EXTINF:-1 group-title="Сборник",ВРЕМЯ
+#EXTINF:-1  group-title="Сборник"  tvg-id="vremia" ,ВРЕМЯ
 http://dmitry-tv.ddns.net/hls/CH_VREMYA.m3u8
-#EXTINF:-1 group-title="Сборник",NATIONAL GEOGRAPHIC
+#EXTINF:-1  group-title="Сборник"  tvg-id="national-geographic" ,NATIONAL GEOGRAPHIC
 http://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Сборник",NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1  group-title="Сборник" ,NATIONAL GEOGRAPHIC WILD
 http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
-#EXTINF:-1 group-title="Сборник",Загородный
+#EXTINF:-1  group-title="Сборник"  tvg-id="zagorodny" ,Загородный
 http://dmitry-tv.ddns.net/hls/CH_ZAGORODNY.m3u8
-#EXTINF:-1 group-title="Сборник",ИСТОРИЯ
+#EXTINF:-1  group-title="Сборник"  tvg-id="istoria" ,ИСТОРИЯ
 http://dmitry-tv.ddns.net/hls/CH_ISTORIA.m3u8
-#EXTINF:-1 group-title="Сборник",Живая планета
+#EXTINF:-1  group-title="Сборник"  tvg-id="zhivaya-planeta" ,Живая планета
 http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PLANETA.m3u8
-#EXTINF:-1 group-title="Сборник",Живая природа
+#EXTINF:-1  group-title="Сборник"  tvg-id="zhivaya-priroda" ,Живая природа
 http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PRIRODA.m3u8
-#EXTINF:-1 group-title="Сборник",В мире животных HD720
+#EXTINF:-1  group-title="Сборник" ,В мире животных HD720
 http://dmitry-tv.ddns.net/hls/CH_VMIREZHIVOTNYH_HD720.m3u8
-#EXTINF:-1 group-title="Сборник",Охотник и рыболов
+#EXTINF:-1  group-title="Сборник"  tvg-id="oxotnik-i-rybolov" ,Охотник и рыболов
 http://dmitry-tv.ddns.net/hls/CH_OHOTNIKIRYBOLOV.m3u8
-#EXTINF:-1 group-title="Сборник",Арсенал
+#EXTINF:-1  group-title="Сборник"  tvg-id="arsenaltv" ,Арсенал
 http://dmitry-tv.ddns.net/hls/CH_ARSENAL.m3u8
-#EXTINF:-1 group-title="Сборник",Первый космический
+#EXTINF:-1  group-title="Сборник"  tvg-id="eureka-hd" ,Первый космический
 http://dmitry-tv.ddns.net/hls/CH_1KOSMICHESKIY.m3u8
-#EXTINF:-1 group-title="Сборник",ИНСАЙТ ТВ HD
+#EXTINF:-1  group-title="Сборник" ,ИНСАЙТ ТВ HD
 http://dmitry-tv.ddns.net/hls/CH_INSAYT_TVHD.m3u8
-#EXTINF:-1 group-title="Сборник",ПРИКЛЮЧЕНИЯ
+#EXTINF:-1  group-title="Сборник" ,ПРИКЛЮЧЕНИЯ
 http://dmitry-tv.ddns.net/hls/CH_PRIKLYUCHENIYA.m3u8
-#EXTINF:-1 group-title="Сборник",Глазами туриста
+#EXTINF:-1  group-title="Сборник"  tvg-id="glazami-turista" ,Глазами туриста
 http://dmitry-tv.ddns.net/hls/CH_GLAZAMI_TURISTA.m3u8
-#EXTINF:-1 group-title="Сборник",НАША СИБИРЬ HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="nasha-sibir" ,НАША СИБИРЬ HD
 http://dmitry-tv.ddns.net/hls/CH_NASHA_SIBIRHD.m3u8
-#EXTINF:-1 group-title="Сборник",Т24
+#EXTINF:-1  group-title="Сборник"  tvg-id="texno-24" ,Т24
 http://dmitry-tv.ddns.net/hls/CH_T24.m3u8
-#EXTINF:-1 group-title="Сборник",Доктор
+#EXTINF:-1  group-title="Сборник"  tvg-id="doktor" ,Доктор
 http://dmitry-tv.ddns.net/hls/CH_DOKTOR.m3u8
-#EXTINF:-1 group-title="Сборник",Zoo ПАРК
+#EXTINF:-1  group-title="Сборник" ,Zoo ПАРК
 http://dmitry-tv.ddns.net/hls/CH_3OOPARK.m3u8
-#EXTINF:-1 group-title="Сборник",ТЕЛЕКАФЕ
+#EXTINF:-1  group-title="Сборник"  tvg-id="telekafe" ,ТЕЛЕКАФЕ
 http://dmitry-tv.ddns.net/hls/CH_TELEKAFE.m3u8
-#EXTINF:-1 group-title="Сборник",Поехали!
+#EXTINF:-1  group-title="Сборник"  tvg-id="poexali" ,Поехали!
 http://dmitry-tv.ddns.net/hls/CH_POEHALI.m3u8
-#EXTINF:-1 group-title="Сборник",Оружие
+#EXTINF:-1  group-title="Сборник"  tvg-id="oruzhie" ,Оружие
 http://dmitry-tv.ddns.net/hls/CH_ORUZHIE.m3u8
-#EXTINF:-1 group-title="Сборник",БОБЁР
+#EXTINF:-1  group-title="Сборник"  tvg-id="bobior" ,БОБЁР
 http://dmitry-tv.ddns.net/hls/CH_BOBER.m3u8
-#EXTINF:-1 group-title="Сборник",TOP SECRET
+#EXTINF:-1  group-title="Сборник"  tvg-id="sovsek" ,TOP SECRET
 http://dmitry-tv.ddns.net/hls/CH_TOP_SECRET.m3u8
-#EXTINF:-1 group-title="Сборник",ВОПРОСЫ И ОТВЕТЫ
+#EXTINF:-1  group-title="Сборник"  tvg-id="voprosy-i-otvety" ,ВОПРОСЫ И ОТВЕТЫ
 http://dmitry-tv.ddns.net/hls/CH_VOPROSYIOTVETY.m3u8
-#EXTINF:-1 group-title="Сборник",ПСИХОЛОГИЯ 21
+#EXTINF:-1  group-title="Сборник"  tvg-id="psixologia-21" ,ПСИХОЛОГИЯ 21
 http://dmitry-tv.ddns.net/hls/CH_PSIHOLOGIA21.m3u8
-#EXTINF:-1 group-title="Сборник",ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTINF:-1  group-title="Сборник"  tvg-id="domashnie-zhivotnye" ,ДОМАШНИЕ ЖИВОТНЫЕ
 http://dmitry-tv.ddns.net/hls/CH_DOMASHNIEZHIVOTNYE.m3u8
-#EXTINF:-1 group-title="Сборник",УСАДЬБА
+#EXTINF:-1  group-title="Сборник"  tvg-id="usadba" ,УСАДЬБА
 http://dmitry-tv.ddns.net/hls/CH_USADBA.m3u8
-#EXTINF:-1 group-title="Сборник",ЗДОРОВОЕ ТВ
+#EXTINF:-1  group-title="Сборник"  tvg-id="zdorovoe-tv" ,ЗДОРОВОЕ ТВ
 http://dmitry-tv.ddns.net/hls/CH_ZDOROVOETV.m3u8
-#EXTINF:-1 group-title="Сборник",Муз Союз
+#EXTINF:-1  group-title="Сборник" ,Муз Союз
 http://dmitry-tv.ddns.net/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 group-title="Сборник",V2BEAT HD720
-http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
-#EXTINF:-1 group-title="Сборник",Kronehit
+#EXTINF:-1  group-title="Сборник" ,Kronehit
 http://dmitry-tv.ddns.net/hls/CH_KRONEHIT.m3u8
-#EXTINF:-1 group-title="Сборник",Kronehit HD
+#EXTINF:-1  group-title="Сборник" ,Kronehit HD
 http://dmitry-tv.ddns.net/hls/CH_KRONEHITHD.m3u8
-#EXTINF:-1 group-title="Сборник",Шансон ТВ
+#EXTINF:-1  group-title="Сборник"  tvg-id="shanson-tv" ,Шансон ТВ
 http://dmitry-tv.ddns.net/hls/CH_SHANSONTV.m3u8
-#EXTINF:-1 group-title="Сборник",ТНТ MUSIC HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="tnt-music" ,ТНТ MUSIC HD
 http://dmitry-tv.ddns.net/hls/CH_TNTMUSICHD.m3u8
-#EXTINF:-1 group-title="Сборник",RUTV
+#EXTINF:-1  group-title="Сборник" ,RUTV
 http://dmitry-tv.ddns.net/hls/CH_RUTV.m3u8
-#EXTINF:-1 group-title="Сборник",МУЗЫКА ПЕРВОГО
+#EXTINF:-1  group-title="Сборник"  tvg-id="muzyka-pervogo" ,МУЗЫКА ПЕРВОГО
 http://dmitry-tv.ddns.net/hls/CH_MUZYKA_PERVOGO.m3u8
-#EXTINF:-1 group-title="Сборник",FTV HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="ftv-hd" ,FTV HD
 http://dmitry-tv.ddns.net/hls/CH_FTVHD.m3u8
-#EXTINF:-1 group-title="Сборник",MYDAYTV
+#EXTINF:-1  group-title="Сборник" ,MYDAYTV
 http://dmitry-tv.ddns.net/hls/CH_MYDAYTV.m3u8
-#EXTINF:-1 group-title="Сборник",Retro TV HD
+#EXTINF:-1  group-title="Сборник" ,Retro TV HD
 http://dmitry-tv.ddns.net/hls/CH_RETROTVHD.m3u8
-#EXTINF:-1 group-title="Сборник",Europa Plus
+#EXTINF:-1  group-title="Сборник" ,Europa Plus
 http://dmitry-tv.ddns.net/hls/CH_EUROPA_PLUS.m3u8
-#EXTINF:-1 group-title="Сборник",Жара
+#EXTINF:-1  group-title="Сборник"  tvg-id="zhara" ,Жара
 http://dmitry-tv.ddns.net/hls/CH_ZHARA.m3u8
-#EXTINF:-1 group-title="Сборник",CGTN ENGLISH
+#EXTINF:-1  group-title="Сборник" ,CGTN ENGLISH
 http://dmitry-tv.ddns.net/hls/CH_CGTN_ENGLISH.m3u8
-#EXTINF:-1 group-title="Сборник",CGTN ENGLISH HD720
+#EXTINF:-1  group-title="Сборник" ,CGTN ENGLISH HD720
 http://dmitry-tv.ddns.net/hls/CH_CGTN_ENGLISHHD720.m3u8
-#EXTINF:-1 group-title="Сборник",CGTN РУССКИЙ HD
+#EXTINF:-1  group-title="Сборник" ,CGTN РУССКИЙ HD
 http://dmitry-tv.ddns.net/hls/CH_CGTN_RUSSKIYHD.m3u8
-#EXTINF:-1 group-title="Сборник",CGTN DOCUMENTARY HD720
+#EXTINF:-1  group-title="Сборник" ,CGTN DOCUMENTARY HD720
 http://dmitry-tv.ddns.net/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
-#EXTINF:-1 group-title="Сборник",МИР 24 HD
+#EXTINF:-1  group-title="Сборник" ,МИР 24 HD
 http://dmitry-tv.ddns.net/hls/CH_MIR24HD.m3u8
-#EXTINF:-1 group-title="Сборник",РБК
+#EXTINF:-1  group-title="Сборник"  tvg-id="rbk" ,РБК
 http://dmitry-tv.ddns.net/hls/CH_RBK.m3u8
-#EXTINF:-1 group-title="Сборник",РБК HD
+#EXTINF:-1  group-title="Сборник" ,РБК HD
 http://dmitry-tv.ddns.net/hls/CH_RBKHD.m3u8
-#EXTINF:-1 group-title="Сборник",Красная линия
+#EXTINF:-1  group-title="Сборник"  tvg-id="krasnaya-linia" ,Красная линия
 http://dmitry-tv.ddns.net/hls/CH_REDLINE.m3u8
-#EXTINF:-1 group-title="Сборник",Всё ТВ
+#EXTINF:-1  group-title="Сборник"  tvg-id="vsio-tv" ,Всё ТВ
 http://dmitry-tv.ddns.net/hls/zabava/CH_VSETV.m3u8
-#EXTINF:-1 group-title="Сборник",Всё ТВ HD
+#EXTINF:-1  group-title="Сборник" ,Всё ТВ HD
 http://dmitry-tv.ddns.net/hls/zabava/CH_VSETVHD.m3u8
-#EXTINF:-1 group-title="Сборник",РЖД ТВ
+#EXTINF:-1  group-title="Сборник"  tvg-id="rzhd-tv" ,РЖД ТВ
 http://dmitry-tv.ddns.net/hls/CH_RZHDTV.m3u8
-#EXTINF:-1 group-title="Сборник",РЖД ТВ HD
+#EXTINF:-1  group-title="Сборник" ,РЖД ТВ HD
 http://dmitry-tv.ddns.net/hls/CH_RZHDTVHD.m3u8
-#EXTINF:-1 group-title="Сборник",Соловьев Live
+#EXTINF:-1  group-title="Сборник" ,Соловьев Live
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
-#EXTINF:-1 group-title="Сборник",Соловьев Live HD
+#EXTINF:-1  group-title="Сборник" ,Соловьев Live HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
-#EXTINF:-1 group-title="Сборник",Большая Азия
+#EXTINF:-1  group-title="Сборник"  tvg-id="bolshaya-azia" ,Большая Азия
 http://dmitry-tv.ddns.net/hls/CH_BAZIYA.m3u8
-#EXTINF:-1 group-title="Сборник",Большая Азия HD720
+#EXTINF:-1  group-title="Сборник" ,Большая Азия HD720
 http://dmitry-tv.ddns.net/hls/CH_BAZIYAHD720.m3u8
-#EXTINF:-1 group-title="Сборник",ВМЕСТЕ РФ HD
+#EXTINF:-1  group-title="Сборник" ,ВМЕСТЕ РФ HD
 http://dmitry-tv.ddns.net/hls/CH_VMESTERFHD.m3u8
-#EXTINF:-1 group-title="Сборник",RT HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="russia-today" ,RT HD
 http://dmitry-tv.ddns.net/hls/CH_RTHD.m3u8
-#EXTINF:-1 group-title="Сборник",RTД HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="rtd-ru" ,RTД HD
 http://dmitry-tv.ddns.net/hls/CH_RTDHD.m3u8
-#EXTINF:-1 group-title="Сборник",Arirang Korea
+#EXTINF:-1  group-title="Сборник" ,Arirang Korea
 http://dmitry-tv.ddns.net/hls/CH_ARIRANG_KOREA.m3u8
-#EXTINF:-1 group-title="Сборник",Известия
+#EXTINF:-1  group-title="Сборник"  tvg-id="izvestia" ,Известия
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYA.m3u8
-#EXTINF:-1 group-title="Сборник",Известия HD
+#EXTINF:-1  group-title="Сборник"  tvg-id="izvestia" ,Известия HD
 http://dmitry-tv.ddns.net/hls/CH_I3BECTIYAHD.m3u8
-#EXTINF:-1 group-title="Сборник",EURONEWS [RU]
+#EXTINF:-1  group-title="Сборник" ,EURONEWS [RU]
 http://dmitry-tv.ddns.net/hls/CH_EURONEWS_RU.m3u8
-#EXTINF:-1 group-title="Сборник",BBC-World
+#EXTINF:-1  group-title="Сборник" ,BBC-World
 http://dmitry-tv.ddns.net/hls/CH_BBC_WORLD.m3u8
-#EXTINF:-1 group-title="Сборник",Bloomberg (ENGLISH)
+#EXTINF:-1  group-title="Сборник" ,Bloomberg (ENGLISH)
 http://dmitry-tv.ddns.net/hls/CH_BLOOMBERG_ENGLISH.m3u8
-#EXTINF:-1 group-title="Сборник",CNN [ENGLISH]
+#EXTINF:-1  group-title="Сборник" ,CNN [ENGLISH]
 http://dmitry-tv.ddns.net/hls/CH_CNN_ENGLISH.m3u8
-#EXTINF:-1 group-title="Сборник",DW [ENGLISH]
+#EXTINF:-1  group-title="Сборник" ,DW [ENGLISH]
 http://dmitry-tv.ddns.net/hls/CH_DW_ENGLISH.m3u8
-#EXTINF:-1 group-title="Сборник",NHK World Japan HD [ENGLISH]
+#EXTINF:-1  group-title="Сборник" ,NHK World Japan HD [ENGLISH]
 http://dmitry-tv.ddns.net/hls/CH_NHK_WORLD_JAPANHD_ENGLISH.m3u8
-#EXTINF:-1 group-title="Сборник",360° НОВОСТИ
+#EXTINF:-1  group-title="Сборник"  tvg-id="360-news" ,360° НОВОСТИ
 http://dmitry-tv.ddns.net/hls/smotrim/CH_360TV_NEWS.m3u8
-#EXTINF:-1 group-title="Сборник",360° НОВОСТИ HD
+#EXTINF:-1  group-title="Сборник" ,360° НОВОСТИ HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_360TV_NEWSHD.m3u8
-#EXTINF:-1 group-title="Сборник",Fashion TV
+#EXTINF:-1  group-title="Сборник"  tvg-id="fashion-tv" ,Fashion TV
 http://dmitry-tv.ddns.net/hls/CH_FASHIONTV.m3u8
-
+#EXT-X-ENDLIST
